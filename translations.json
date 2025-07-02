@@ -1,0 +1,3002 @@
+[
+  {
+    "src": "上周，<unk>《<unk>私房<unk>》临时<unk>，意外引发了关于<unk><unk><unk>造假的热烈讨论。",
+    "ref": "Last week, the broadcast of period drama <unk> Private <unk> was temporarily <unk> and <unk> triggered heated debate about <unk> ratings of locally produced <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "民权团体针对<unk>发出旅行警告",
+    "ref": "Civil rights group issues travel warning for <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "由于<unk>的歧视性政策和种族主义袭击，美国<unk>促进协会 (<unk>) 向准备前往<unk><unk>的<unk>人群发出旅行警告。",
+    "ref": "The National Association for the <unk> of <unk> People has put out an alert for people of color traveling to <unk> because of the <unk> discriminatory policies and racist attacks.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "“2017 年 8 月 28 日生效的 <unk> <unk>旅行咨询中呼吁，因近期<unk>发生了一系列可疑的种族性事件，所有<unk><unk>旅行者、游客以及<unk>人在<unk>旅行<unk>特别注意并采取极其谨慎的态度，<unk>告知，”该团体的声明宣称。",
+    "ref": "<unk> <unk> <unk> <unk> for the state of <unk> effective through August <unk> 2017, calls for African American <unk> visitors and <unk> to pay special attention and exercise extreme caution when traveling throughout the state given the series of <unk> <unk> incidents occurring <unk> recently, and noted <unk> the <unk> statement <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ff9043315b9116be97d1e1d7d5730c8fb7cafce2d8523451f477636f0afd5a6e"
+  },
+  {
+    "src": "<unk> 指出，最近通过的一项<unk>法律使得人们更难赢得歧视诉讼，该州执法也一定程度上针对少数群体，这些现象促使该组织发布了旅行警告。",
+    "ref": "A recent <unk> law making it harder for people to win discrimination <unk> as well as the <unk> law enforcement disproportionately targeting minorities prompted the group to issue the travel <unk> the <unk> said.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "侵犯公民权利的行为正发生在人们身上。",
+    "ref": "<unk> have violations of civil rights that are happening to people.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "他们因肤色被<unk><unk>，被殴打或被杀害，”<unk> <unk> 主席<unk>·<unk><unk>告诉<unk><unk> (The <unk> <unk> Star)。",
+    "ref": "<unk> being pulled over because of their skin color, <unk> being beaten up or <unk> the president of the <unk> <unk> <unk> <unk> told The Kansas City <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ae966cd36bb3e96af49a154c42b25a6fa0d3a981f0c5b93d06ab45fb144b8fce"
+  },
+  {
+    "src": "“我们收到了许多投诉，数量前所未有。”",
+    "ref": "<unk> are hearing complaints at a rate we <unk> heard <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "这是该组织在美国针对某个州发布的第一个此类警告。",
+    "ref": "It is the first such warning that the organization has issued for a state in the US.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "该组织援引了<unk>大学对黑人学生的种族诽谤以及 28 岁<unk>黑人男性<unk>·桑德斯的死亡事件。",
+    "ref": "The group cited incidents such as racial <unk> against black students at the University of <unk> and the death of Tory Sanders, 28, a black man from <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "今年早些时候，桑德斯在可疑情况下死亡。他在<unk>旅行时燃油耗尽，被<unk>警方在无指控犯罪的情况下拘留。",
+    "ref": "Sanders died under questionable circumstances earlier this year after he ran out of gas while traveling through the state, and was taken into custody by <unk> police without being accused of a crime.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "咨询中还指出，<unk>总检察长办公室最近的一份报告显示，“与白人相比，该州的黑人司机被<unk><unk>的可能性要高出 75%”。",
+    "ref": "The advisory also points to a recent report by the <unk> Attorney <unk> Office showing that black drivers in the state were 75 percent more likely to be pulled over than <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "<unk><unk>说：“<unk>咨询是为了提高人们的意识，警告他们的家人、朋友和同事在<unk>可能发生的情况。”",
+    "ref": "<unk> advisory is for people to be <unk> and warn their families and friends and <unk> of what could happen in <unk> <unk> said.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "“人们需要做好准备，无论是携带<unk>前往<unk>，还是让亲属知道自己在州内旅行”。",
+    "ref": "<unk> need to be <unk> whether <unk> bringing bail money with them, or letting relatives know they are traveling through the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fd7b550e14a55920d99121075c652f839df1b2c67f3482eae29d7abf9afe136b"
+  },
+  {
+    "src": "根据联邦调查局仇恨犯罪报告计划的最新数据，<unk>在 2015 年记录了 100 起仇恨罪行；根据罪行量，该州在全国<unk> 16 位。",
+    "ref": "<unk> recorded 100 hate crimes in 2015, according to the latest figures from the <unk> hate crime reporting program, ranking the state at <unk> in the country in terms of the number of such violations.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "旅行警告也是对<unk>新法律的回应，该法律将使起诉住房或就业歧视企业变得更加困难。",
+    "ref": "The travel warning is also a response to a new <unk> law that would make it more difficult to sue a business for housing or employment discrimination.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "此前，美国各州通过了移民执法法律，要求当地执法部门拘留移民违规人员，美国公民自由联盟 (<unk>) 表示此举会增加种族诉讼数量，并发布了针对德克萨斯州和<unk>的旅行咨询。",
+    "ref": "Previously, the American Civil <unk> Union <unk> had issued travel <unk> for Texas and <unk> after the states passed immigration enforcement laws requiring local law enforcement to detain people on immigration violations which the <unk> said would increase racial <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "旅行警告通常是由美国政府针对其他国家发布的，但最近，咨询团体采取这一方式以应对美国境内的某些法律和趋势。",
+    "ref": "<unk> warnings are usually issued by the State Department for other countries, but lately, advocacy groups have resorted to the measure in response to certain laws and trends inside the US.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3be326ea4a47bb9e31dcde6a58f7e23c56c98771b099a5d40be8bbb10387d771"
+  },
+  {
+    "src": "经历2015年<unk>猛增的“黄金时代”后，2016年整体电影市场进入了冷静期，能否突破去年<unk>亿元的总<unk>成绩都成为一个<unk>。",
+    "ref": "After experiencing the “golden era” of a soaring box office in 2015, the film market <unk> into a <unk> period in 2016. Whether box office <unk> could surpass last year’s total of <unk> billion is <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "从国家统计局公布的数据看，10月，北京<unk>和<unk>价格双双降温，<unk>仅上涨<unk>和<unk>。",
+    "ref": "Data from the National Bureau of Statistics revealed that in October, prices of new and <unk> residential properties <unk> up 0.6% and 1.1% <unk> respectively.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "现任<unk>首席技术官的卢<unk>库在本次大会上做了一份关于2016年<unk>以及<unk><unk>联赛的技术报告。",
+    "ref": "<unk> the current Chief Technology <unk> of <unk> made a technical report on the 2016 <unk> Euro and the last season of European <unk> League at the meeting.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "BBC称北京成最激动人心城市：让<unk>感觉“生活在新时代”",
+    "ref": "BBC claims that Beijing has become the most exciting <unk> making foreigners feel like “living in a new <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "<unk>网1月18日报道<unk>，北京或许有<unk>的悠久历史，但它也在迅速变身为今天的现代魅力都市。",
+    "ref": "<unk> News Network reported on January 18 that the British media organization has noticed that Beijing is rapidly transforming into a glamorous modern city in spite of the fact that it is <unk> years old.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "这座中国首都拥有速度高得惊人的互联网，有<unk>软件等<unk>，在人工智能方面投入了巨资并且拥有无可<unk>的国际化能量，它对富于探索精神的外国人而言是最激动人心的城市之一。",
+    "ref": "The Chinese capital is interconnected by <unk> high-speed Internet and has implemented cutting-edge technologies such as face recognition. It has invested heavily in artificial intelligence and has an unmatched capacity of <unk> It is one of the most exciting cities for foreigners who are eager to explore the world.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a60e3d1205fc37344c5c758f97a1e53473132f62726de09fd19c5008a61e4bc3"
+  },
+  {
+    "src": "据<unk>网站1月16日报道，德国侨民<unk>·<unk>：“如果我能在那儿成功，我以后在任何地方都能成功。”他引用的是歌手弗兰克·<unk>特拉歌颂纽约市的<unk>。",
+    "ref": "According to a report on the BBC website on January 16, the German <unk> <unk> <unk> said: <unk> I can succeed there, I can succeed <unk> He quoted a song written by <unk> Frank <unk> to praise New York City.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "在《旅行者档案》杂志担任创意总监的塞<unk>：“如果<unk>特拉活到今天，他很可能会<unk>北京这样的城市。”他说，生活在这座城市会让你感觉“生活在新时代”，总是能跟上潮流。",
+    "ref": "<unk> who served as Creative Director of <unk> <unk> said: <unk> <unk> lives today, he is likely to <unk> a song for <unk> He said that living in this city will make you feel like “living in a new <unk> which means that you can always keep up with the trends.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "<unk>位于英格兰、但最近生活在北京的西蒙·<unk>在个人博客网站<unk>上发表文章说：“人们总体上有一种处于某种宏大事物中心的感觉，这种感觉很难说清楚，但它让许多外国人长久留在那里。他们想看看它会变成什么样，并且希望亲眼见证。”",
+    "ref": "Simon <unk> who <unk> from England had been living in Beijing in recent years, published an article on personal blog site <unk> <unk> “People generally have a feeling of being at the center of something <unk> Although this feeling is hard to describe clearly, it is the reason why so many foreigners stay there for a long time. They want to see what it will become and hope to witness it. <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "报道称，这座城市优质高速的互联网和对技术友好的环境使日常生活比以往任何时候都更容易。",
+    "ref": "According to reports, the <unk> high-quality, high-speed Internet and <unk> environment make everyday life easier than ever before.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "来自马尼拉、目前在“北京儿童”网站担任<unk>的安迪·<unk><unk>尔特说：“北京正在迅速转变为一个无现金社会，互联网把传统钱包的功能整合到智能手机上，使每个人都能更容易地进行许多交易。”",
+    "ref": "Andy <unk> who <unk> from <unk> and is currently the deputy <unk> of the website Beijing <unk> said: <unk> is rapidly transforming into a cashless society. The Internet <unk> the functions of traditional <unk> into smart phones, making it easier for everyone to conduct various <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "报道表示，但智能手机只是北京技术雄心的开始，<unk>识别软件已经十分普及，许多手机应用都使用这种技术来进行银行转账和支付、让人们进入公寓和办公室，甚至用它来核实<unk>司机的身份。",
+    "ref": "According to reports, smart phones are just the beginning of <unk> technical ambitions. <unk> recognition technology is being widely used across the city. Many mobile phone applications use this technology to facilitate bank transfers and payments, grant people access apartments and offices, and even use it to verify identity of the drivers providing <unk> service.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "北京最近还宣布计划<unk><unk>亿元人民币修建一个人工智能<unk>，建成后将有逾400家企业在那里<unk>，它们将专注于开发从<unk>到自动驾驶汽车的各种人工智能技术。",
+    "ref": "Beijing recently announced plans to invest <unk> billion yuan in the construction of an artificial intelligence technology <unk> When it is completed, more than 400 companies will settle there. They will focus on the development of artificial intelligence technologies ranging from <unk> to self-driving cars.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "9c294913ea39bac673baf6951753465cf45383eb0b7dc3acf350bc5583dc0fea"
+  },
+  {
+    "src": "食品也是中国<unk>诸多重大节日的核心，参加这些庆祝活动受到外国人的推崇，<unk>是最重要的社会和经济节日，也是外国人最容易参与的节日之一。",
+    "ref": "Food plays a central role in China’s many major traditional <unk> <unk> are enthusiastic about these <unk> The Spring <unk> is the most important <unk> in both social and economic sense, and it is also one of the most <unk> <unk> for foreigners.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "<unk>：“我建议帮助中国朋友为<unk>做准备，<unk>公寓和在家门贴上写有新年<unk>的红色<unk>同等重要，在<unk>那一天，所有的家庭成员都要<unk><unk>吃<unk><unk>的<unk>，然后<unk>到午夜，用<unk>响亮的<unk>迎接新年。对外国人而言，与朋友和家人<unk>这个夜晚的确是一个融入的机会。”",
+    "ref": "<unk> said: <unk> a pleasure for me to help Chinese friends prepare for the New <unk> It is equally important to clean the apartment and <unk> the red spring <unk> with blessing words on the door. On New Year’s <unk> all family members must gather together to have a good <unk> and stay until <unk> and finally to celebrate the New Year with <unk> For foreigners, spending the night with friends and their family is indeed an opportunity for <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5384629aaeda9878c9117428f9d959d927c6fb16f3318ca3b797eda65a9d5b54"
+  },
+  {
+    "src": "报道称，北京的外国人数量众多而且在不断增长，但中国的<unk>以及侨民之间交流的便利很容易成为他们不完全融入当地文化的借口。",
+    "ref": "According to reports, a large number of foreigners are living in Beijing and the number is growing. However, the language barrier and the convenience of exchanges between the <unk> can easily become <unk> for not fully integrating into the local culture.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "<unk>：“一些外国人已经在中国生活多年，但对他们的东道国几乎没有什么体验。如果你最初接触中国人的尝试不算成功，那么你很容易有还是与其他外国人相处更容易的感觉。",
+    "ref": "<unk> said: <unk> foreigners have lived in China for many years, but they have little experience with their host country. If your initial attempt to interact with the Chinese is not successful, then it is easy for you to feel more comfortable with other foreigners.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a60e3d1205fc37344c5c758f97a1e53473132f62726de09fd19c5008a61e4bc3"
+  },
+  {
+    "src": "”在这些所谓的“<unk><unk>”中（“<unk><unk>”是指外国人只在外国人中间<unk>，而不接触当地人和当地文化——译者注），外国人在自己的社区里<unk>，在西方餐馆<unk>，并且朋友中只有外国人。",
+    "ref": "In these so-called <unk> <unk> <unk> <unk> refers to circles in which foreigners only mixed in with foreigners, without <unk> local people and local culture -- <unk> <unk> foreigners <unk> with each other in their own communities, eat in Western restaurants, and only make friends with foreigners.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ae966cd36bb3e96af49a154c42b25a6fa0d3a981f0c5b93d06ab45fb144b8fce"
+  },
+  {
+    "src": "克服这一点最简单的办法就是学习一点<unk>——这比人们可能想象的要简单。",
+    "ref": "The easiest way to overcome problem is to learn a little bit of <unk> – something easier than one might think.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "<unk>：“每周上一两个小时的<unk><unk><unk>或者学习<unk>的<unk>应该会适合每个人的<unk>日程。”",
+    "ref": "<unk> said: “One or two hours of private lessons in Chinese every week or learning <unk> radio <unk> should suit everyone’s busy <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "哪怕学<unk>经典的<unk>也会对购物、在餐馆<unk>或是在出租车上<unk>有帮助。",
+    "ref": "Even learning a few classic <unk> will help with <unk> ordering a <unk> in a <unk> or <unk> on a <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "报道称，顽固的空气污染也是日常生活中的一个事实，不过近年来的政府努力遏制了一些问题。",
+    "ref": "According to reports, persistent air pollution is also a fact of daily life, but the government has tried to curb pollution in recent years.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "居民们强调，在污染往往<unk>的温暖月份里到<unk>很重要，要把那些<unk>日当作在历史悠久的<unk>里<unk>或是探索备受欢迎的<unk>的机会。",
+    "ref": "<unk> emphasize that outdoor activities are very important in warm months when pollution is often light. It is important to consider those blue sky days as opportunities for <unk> in ancient <unk> or exploring the popular <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "<unk>说：“北京是能在表面以下发现最多东西的中国城市，你能发现很不错的艺术和音乐活动、<unk>的<unk>、历史<unk>、超现代的<unk>和古老的<unk>区。”",
+    "ref": "<unk> said: <unk> is a Chinese city that one can find most things below the surface. You can find very good arts and music activities, <unk> <unk> historical <unk> <unk> business districts and ancient <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "报告认为，老龄化对人力资本增长的阻碍作用日益明显，尤其在<unk>，老龄化对人力资本增长的年均<unk>为-<unk>。",
+    "ref": "The report believed that the <unk> to growth in human capital as a result of aging has become increasingly apparent. This was particularly the case in the <unk> where the annual average contribution of aging to human capital growth was <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "<unk>指出，目前跨境资本流动风险可控，支撑国际收支平衡的根本性因素仍然长期存在。",
+    "ref": "Pan <unk> said that the present of risk of cross-border capital flows can be <unk> The fundamental factors underpinning international balance of payments will still exist over the longer term.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "<unk>北京12月17<unk> (记者 <unk>)世界因遗产而<unk>——2016中国古<unk>鉴定修复与保护国际<unk>于12月17日在<unk>开幕。",
+    "ref": "China News Service Beijing December 17 wire <unk> <unk> <unk> Heritage makes the world <unk> - The opening ceremony of the 2016 International Summit for the <unk> <unk> and Protection of <unk> Chinese <unk> and <unk> was held at <unk> University of China on December <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "欧盟委员会今年4月指控谷歌强迫手机厂商<unk>谷歌搜索和<unk><unk>等软件，否则便不允许其使用其他谷歌应用。",
+    "ref": "In April this year, the European Commission accused Google of <unk> mobile phone manufacturers into installing software such as the Google search engine and <unk> web <unk> or they would not be allowed to use other Google applications.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "欧盟委员会认为此举有损消费者的利益，并且阻碍了竞争。",
+    "ref": "The European Commission believed that this harmed consumer interests and hindered competition.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "欧盟监管者最初要求谷歌在7月27日之前作出回应。",
+    "ref": "EU regulators initially requested that Google make a response prior to July <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "倘若反垄断罪名成立，谷歌最高面临其全球<unk>10%的罚款，约为74亿美元。",
+    "ref": "If found guilty of violating antitrust rules, Google could face a maximum fine of 10% of its global <unk> or approximately <unk> billion.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "谷歌尚未立刻对此<unk>。",
+    "ref": "Google has not made immediate comment on this.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "谷歌还因为在搜索结果中偏向自家购物服务而面临欧盟的调查。",
+    "ref": "Google also faced EU investigations over giving prominent <unk> to its own shopping services in search results.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "<unk>的<unk>是实打实的，可以说他实现<unk><unk><unk>的“<unk>”并不是偶然的，而他<unk>的幅度依然令人惊讶。",
+    "ref": "Zhang <unk> <unk> is a real one. It can be said that his achievement of <unk> <unk> from the national youth to the national Olympics is by no means <unk> and his <unk> growth is still surprising.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "一张<unk>懂：比特币在世界各地的法律地位",
+    "ref": "<unk> through a <unk> <unk> legal status around the world",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "<unk>：除了投机属性天然引发的价格回调，本轮数字货币<unk>也与“<unk>”——监管风险<unk>。",
+    "ref": "<unk> A part from the price correction which is natural in speculation, the current round of digital currency <unk> has also to do with the <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "从<unk>地图看，东方国家对比特币的态度比西方更为保守，占全球主体的国家仍在观望数字货币合法性，代表“黑天鹅风险”依旧很大。",
+    "ref": "From the <unk> <unk> the attitude of the eastern countries towards Bitcoin is more conservative than that of the West. Most countries in the world are still <unk> about the legitimacy of digital currencies, indicating that the <unk> of the black <unk> is still looming large.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "<unk>本文来自华尔街<unk>（微信<unk>：<unk>），编辑<unk>。更多精彩资讯请登陆<unk>.com，或<unk>华尔街<unk><unk>。<unk>",
+    "ref": "<unk> article is taken from <unk> <unk> <unk> <unk> editor Wang <unk> For more exciting information, visit <unk> or <unk> the <unk> <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b9f017c22e24a0e2dc459843decc065560e2b734e1c50702643da0eccb14e215"
+  },
+  {
+    "src": "随着中国、韩国和欧盟等比特币主要市场的监管风暴<unk>，以比特币为首的全球数字货币本周以来惨遭<unk>，比特币价格<unk>起<unk>1万美元心理<unk>位，并创三年以来最大<unk>跌幅。",
+    "ref": "As the authorities in major markets of Bitcoin -- such as China, South Korea and the European Union -- take decisive regulatory measures, the digital currency market dominated by Bitcoin has experienced major bloodshed this week. The price of Bitcoin has fallen below 10,000 dollar, recording the biggest <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "c887ee474ba7d790665f67057268339b875e23e0f0ef0d25d1fa03c5c0596dab"
+  },
+  {
+    "src": "除了投机属性天然引发的价格回调，本轮数字货币<unk>也与一直以来的“<unk>”——监管风险<unk>。",
+    "ref": "A part from the price correction which is natural in speculation, the current round of digital currency <unk> has also to do with the <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "在这个重要的<unk>，<unk>大数据网站<unk>.<unk>制作了一份<unk>，展现比特币在全球各国的合法性地位和受监管程度。",
+    "ref": "At this important <unk> <unk> a <unk> big data <unk> produced a map showing the legitimacy of Bitcoin and regulation measure in place in countries around the world.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "如下图所示，绿色代表比特币的合法市场；<unk>代表中性市场，虽尚未公开合法化比特币地位，但也没有主要的使用限制；<unk><unk>代表受限制的市场，即当地政府尝试通过红线政策或监管来方法数字货币的使用；深<unk>代表比特币被定义为非法的国家；灰色是尚未<unk>的国家。",
+    "ref": "As shown in the figure below, green represents the legal market for <unk> and orange represents the neutral market. Although there is no place where Bitcoin is acknowledged a legal currency, there are no major restrictions on the use it. The pale <unk> represents the restricted market, <unk> the local government tries to the use of the digital currency pass by drawing a red line or taking regulatory measures. The deep <unk> represents countries where Bitcoin is declared as illegal. The <unk> represents countries that have not yet been <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0db16d38662affc5b2b9742f85803e59aab4e692de298a382d84bfe493178486"
+  },
+  {
+    "src": "（上图来自<unk>.<unk><unk>团队在1月15日<unk>）",
+    "ref": "(The above figure was drawn by the <unk> <unk> team on January <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "dbb44557b4f2d309d53cee1443df7bab9e31017fb3ed40e5bbb1cf895b994ef2"
+  },
+  {
+    "src": "文章指出，<unk>中非绿色的<unk>分布可以看出，<unk>上的东方国家对比特币的态度比西方更为保守。",
+    "ref": "The article points out that from the distribution of <unk> color <unk> in the <unk> it can be seen that the <unk> countries in the traditional sense are more conservative towards Bitcoin than the West.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "俄罗斯是目前定义比特币为非法的最大国家，中国是比特币最大的受限市场之一，印度是对比特<unk><unk>、还没有出台相关政策的最大国家之一。",
+    "ref": "Russia is currently the largest country that defines Bitcoin as illegal. China is one of the largest restricted markets for <unk> India is one of the largest countries that have not commented on Bitcoin and have not made relevant policies.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "北美和西欧是对比特币<unk>最高的地区，即绿色<unk>的分布更为集中。",
+    "ref": "North America and Western Europe are the regions that have highest level of tolerance to Bitcoin <unk> where green <unk> are <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "中东和拉丁美洲各国对比特币的看法呈现明显分化，上述地区的<unk>分布更为混杂。",
+    "ref": "The views of the countries in the Middle East and Latin America on Bitcoin are clearly divided, so, the distribution of color <unk> in these areas is more mixed.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "其中伊拉克、伊朗、土耳其、巴西都是合法的比特币市场，阿富汗、巴基斯坦、沙特、埃及、玻利维亚等对其交易和使用有一定程度的限制，更多的拉美国家对比特币还没有发声。",
+    "ref": "Among them, Iraq, Iran, Turkey and Brazil are all legitimate Bitcoin markets. Afghanistan, Pakistan, Saudi Arabia, Egypt, and <unk> have some restrictions on the trading and use of <unk> Most Latin American countries have not made any comments about <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "综合上述数据可知，在全球受统计的<unk>个国家中，共有99个国家（或占比40%）对比特币的交易和使用不施加限制，即绿色和<unk>的地区。",
+    "ref": "From the above data, it can be seen that of the <unk> countries that have been <unk> a total of <unk> countries (or 40% of the <unk> <unk> imposed any restrictions on the transactions and use of <unk> They are represented by green and orange <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "有7个国家（或占比3%）是受限市场（<unk><unk>），有10个国家（或占比4%）定义比特币为非法（深<unk>），有130个国家（或占比<unk>）还没有更多的对待数字货币信息（灰色）。",
+    "ref": "Seven countries (or <unk> are restricted markets <unk> <unk> 10 countries (or <unk> have defined Bitcoin as illegal <unk> <unk> and 130 countries (or <unk> <unk> <unk> given comments on digital currency <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ae966cd36bb3e96af49a154c42b25a6fa0d3a981f0c5b93d06ab45fb144b8fce"
+  },
+  {
+    "src": "这说明，占全球主体（<unk>，超过半数）的国家仍在观望以比特币为首的数字货币在境内的合法性，也代表了比特币的“黑天鹅风险”依旧很大，因为其中一部分国家最终可能会作出限制数字货币的立法决定。",
+    "ref": "This shows that countries that account for the global majority <unk> more than <unk> are still <unk> about the legitimacy of digital currencies represented by <unk> This means that the “black swan <unk> is still very large for <unk> because some of these countries may ultimately make legislation that restrict the use of digital currencies.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a60e3d1205fc37344c5c758f97a1e53473132f62726de09fd19c5008a61e4bc3"
+  },
+  {
+    "src": "文章认为，全球监管机构对数字货币这个新兴类别还没有完全理解，可能是大部分国家还没有作出表态的主要原因。",
+    "ref": "The article believes that global regulators have not fully understood the digital currency as a new type of currency. This may be the main reason why most countries have not chosen a stance.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "2f510efcf49f3d6e80170ff18fb15fc4052343ecd35591de3ae2fa647c032b2a"
+  },
+  {
+    "src": "尽管比特币的“人气”自去年以来呈指数级增长，并不代表所有国家都感兴趣，可能有些国家担心当地<unk>因此受到威胁，或更担心数字货币被犯罪组织利用。",
+    "ref": "Although Bitcoin’s popularity has grown exponentially since last year, it does not necessarily mean that all countries are interested in it. <unk> probably that some countries are concerned that the local currency may be undermined by digital currencies or that digital currencies are used by criminal organizations.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "华尔街<unk>曾撰文详细总结了上周以来针对比特币的国际监管新闻，包括中国开始打击<unk>类交易所的集中服务在线平台和移动<unk>、韩国仍在考虑关闭数字货币交易所、欧盟认为比特币还没有被广泛接受并警告投资者“<unk><unk>”的风险等。",
+    "ref": "<unk> has published an article <unk> the news related to regulation measures against Bitcoin across the world since last week, <unk> China starts to crackdown on online platforms and mobile <unk> of <unk> <unk> South Korea is still considering to close the digital currency <unk> the European Union holds the view that Bitcoin has not yet been widely accepted and warns investors of the risk of <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ff9043315b9116be97d1e1d7d5730c8fb7cafce2d8523451f477636f0afd5a6e"
+  },
+  {
+    "src": "华尔街<unk><unk><unk>《读<unk><unk>2018：全球<unk>开启数字货币<unk>？》曾提到，从监管、接受/批判、采纳的<unk>角度来看，2018年都将成为全球央行的数字货币<unk>。",
+    "ref": "<unk> <unk> <unk> Reading News <unk> <unk> Global Central Banks Are <unk> Digital <unk> One article points out that 2018 is destined to be the first year of digital currency for central banks across the world, viewing from the perspectives of supervision, <unk> and <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ae966cd36bb3e96af49a154c42b25a6fa0d3a981f0c5b93d06ab45fb144b8fce"
+  },
+  {
+    "src": "俄罗斯等大国批评比特币合法性地位的做法，其实也是为了给官方发行数字货币<unk>。",
+    "ref": "The act of questioning the legal status of Bitcoin by big countries such as Russia is actually meant to make way for the official issuance of digital currencies.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "新华社马德里1月8<unk>（报道员<unk>）巴塞罗那<unk><unk>尼奥8日在诺<unk>首次<unk><unk><unk><unk>。",
+    "ref": "On January <unk> the <unk> new aid <unk> <unk> showed up for the first time in Camp <unk> with his <unk> <unk> the Xinhua News Agency reported in Madrid by <unk> <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "<unk>尼奥<unk><unk>通过了<unk>的<unk>，并与<unk>主席<unk><unk>在一份将于2023年夏天到期的合同上签了字。",
+    "ref": "<unk> passed a physical examination of <unk> early that morning and signed with <unk> president <unk> a contract that will expire in the summer of <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "随后他作为<unk>球员，在诺<unk>近7000名球迷面前<unk>。",
+    "ref": "Then he appeared in the face of nearly 7,000 Camp <unk> fans as a <unk> player.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "据西班牙媒体透露，<unk>尼奥的<unk>总额或达到1.6亿欧元（1欧元约合<unk>元人民币），是<unk>俱乐部及<unk>历史第一<unk>。",
+    "ref": "According to a Spanish media, <unk> transfer fee may amount to 160 million euros <unk> <unk> <unk> Chinese <unk> being the highest paid player in the history of <unk> and La <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "由于眼下<unk>尼奥仍<unk>在<unk>，他还需<unk>近20日才能迎来自己<unk><unk><unk>的<unk>。",
+    "ref": "As <unk> is still injured at the moment, he still need <unk> for nearly 20 days before ushering in his <unk> in the <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "还有什么神圣的东西？",
+    "ref": "Is nothing <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "现在特朗普的白宫正在瞄准自由<unk>",
+    "ref": "Now <unk> White House is targeting the <unk> of <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "政权更迭最确定的标志是他们开始攻击雕像之时。",
+    "ref": "The surest mark of regime change is when they start attacking the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "美国人和任何人一样都赞同这一点。 因此，2003 年巴格达天堂广场的萨达姆?侯赛因被<unk>地推倒了。",
+    "ref": "Americans appreciate this as well as anyone - hence the carefully <unk> toppling of Saddam Hussein in <unk> square in Baghdad in 2003.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "斯蒂芬?米勒 (Stephen <unk>) 作为特朗普政府的关键<unk>之一，在与<unk> (<unk>) 的吉姆?<unk> (Jim <unk>) 就总统关于严格限制合法移民的提议进行激烈争论时,他肯定知道自己对自由<unk><unk>出象征性的<unk>发生什么事情。",
+    "ref": "Stephen <unk> one of the key ideologues of the Trump regime, surely knew what he was doing when he took a symbolic <unk> to the <unk> of <unk> in a heated argument with <unk> Jim <unk> over the <unk> proposals to drastically limit legal immigration.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ff9043315b9116be97d1e1d7d5730c8fb7cafce2d8523451f477636f0afd5a6e"
+  },
+  {
+    "src": "公平地说，米勒并没有攻击雕像本身。",
+    "ref": "In fairness, <unk> did not attack the <unk> itself.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "如果他这样做了，那么一群<unk>业主和自由主义的追随者一定会将他<unk>。",
+    "ref": "A <unk> of <unk> owners and <unk> <unk> would have <unk> him if he did.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "但是他确实攻击了<unk>的意义，尤其是在 <unk> <unk>?<unk>路的着名诗歌<unk>在<unk><unk>（这座纪念碑在此后17<unk>建成）而具有的意义。",
+    "ref": "But he did attack its meaning, and in particular the meaning <unk> to it when <unk> <unk> famous poem was added to its base in <unk> 17 years after the <unk> itself was completed.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "正如米勒斥责<unk>所说：“我不想在这里谈论历史的全部事实，但<unk>像是美国自由<unk>世界的象征<unk>。",
+    "ref": "As <unk> <unk> <unk> <unk> don't want to get off into a whole thing about history here, but the <unk> of <unk> is <unk> a symbol of American liberty lighting the world.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "你所指的<unk><unk>，那是后来又加上去的，不是原始自由<unk>的一部分。”",
+    "ref": "The poem that <unk> referring to, that was added later and is not part of the original <unk> of <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "事实上，米勒是正确的，但是正如他自己所说的，这不是真正关于历史。",
+    "ref": "<unk> is <unk> correct, but as he put it himself, this is not really about history.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "这涉及到<unk>路<unk><unk>的现代<unk>，唯一一个国家似乎不仅邀请任何老移民，而且还邀请穷人中最贫穷的人：“你的疲惫、你的<unk>、或者你的<unk>的民众渴望自由呼吸，/苦难的人拒绝你拥挤的海滩。”",
+    "ref": "It is about the contemporary resonance of <unk> startling words, the only ones in which a state has appeared to invite not just any old immigrants, but the poorest of the <unk> <unk> <unk> your poor, <unk> <unk> <unk> masses yearning to breathe free, <unk> The <unk> refuse of your teeming <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0db16d38662affc5b2b9742f85803e59aab4e692de298a382d84bfe493178486"
+  },
+  {
+    "src": "不存在“苦难的人拒绝”在我们的屏幕变得更<unk>的<unk>。",
+    "ref": "There has never been a time when the <unk> <unk> has been more visible on our <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "米勒并没有从事过<unk>工作，他清楚地表明，这些人在特朗普时代的美国不会受到欢迎。",
+    "ref": "<unk> was not engaging in literary criticism - he was making it clear that these people are not welcome in <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "这种关于雕像意义的冲突是更广泛的政治和文化战争的一部分：这实际上是与美国精神相冲突。",
+    "ref": "This conflict about the meaning of a <unk> is part of a wider political and cultural <unk> it is really a conflict about the meaning of America.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "<unk><unk> (<unk>) ，以及她的、在她去世后举行活动将她的<unk><unk>在<unk>上的朋友们，很清楚他们正在参与的行为具有高度政治性。",
+    "ref": "<unk> - and her friends who campaigned to place her words at the base after her death - knew very well that they were engaging in a highly political act.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "该<unk>的目的是通过作为<unk>的女性化身的、古老的经典比喻来表达法国和美国共和主义之间的联系。",
+    "ref": "The <unk> was intended to mark the connections between French and American <unk> by representing in a <unk> classical <unk> the female embodiment of <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "<unk>路改变了这个意思：在她的<unk>中，女性形象不再抽象,她要发声。",
+    "ref": "<unk> changed that <unk> in her poem the female figure is no longer abstract - she has a voice.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "她给自己起了一个非常不同的名字：流放之母。",
+    "ref": "And she gives herself a very different <unk> Mother of <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk><unk>与<unk>画的结合是一场成功的女权主义政变,并且是对美国本土主义的毁灭性打击。",
+    "ref": "The <unk> of the poem to the image is a brilliant feminist coup and a devastating attack on American <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "就像<unk>路改变雕像的意义一样，右翼者一直想要把它<unk><unk>。",
+    "ref": "And just as <unk> changed the meaning of the <unk> <unk> have long wanted to change it back.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "dbb44557b4f2d309d53cee1443df7bab9e31017fb3ed40e5bbb1cf895b994ef2"
+  },
+  {
+    "src": "伟大的演讲者<unk>?<unk> (<unk> <unk>) ，是特朗普来临时的一位<unk>者，他在 2010 年认为，自由主义并不是邀请任何人，而他现在是一名早期的新保守主义者，将美国的智慧火焰带给愚昧的世界：“<unk>是<unk><unk>的。",
+    "ref": "The great <unk> <unk> <unk> a kind of John the <unk> for the coming of Trump, argued in 2010 that <unk> is not inviting anyone in, but is rather an early <unk> taking the American <unk> out to the <unk> world: <unk> <unk> is stepping forward.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b9f017c22e24a0e2dc459843decc065560e2b734e1c50702643da0eccb14e215"
+  },
+  {
+    "src": "她本意是将自由的火炬从美国带到世界的其他地方。",
+    "ref": "She is meant to be carrying the torch of liberty from the United States to the rest of the world.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "火炬不是<unk>美国的道路。”",
+    "ref": "The torch is not to light the way to the United <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "不同寻常的是，<unk>实际上被一些东西所打动。",
+    "ref": "Rather <unk> <unk> actually hit on something.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "雕像的意义完全取决于认知的角度。",
+    "ref": "The meaning of the <unk> is entirely a matter of the <unk> of <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "<unk>路极富想象力的做法就是能够看到它。当疲惫的，可怜的但充满希望的人会在经过漫长而往往可怕的旅程后，可以在船<unk>上看到它。",
+    "ref": "<unk> great <unk> act was to see it as it would be seen by exhausted, <unk> but hopeful people on the <unk> of ships after long and often dreadful <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "从表面上看，这涉及到那些寻求庇护、有机会改善生活的人们看待世界的角度问题。",
+    "ref": "It is literally about seeing the world from the perspective of people seeking refuge and a chance to better their lives.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "74fa25b2979723355e261873f16326ac8d4f122315eac86bb86900531e7f2930"
+  },
+  {
+    "src": "她的雕像向他们传达且需要他们听到的希望和欢迎的本意。",
+    "ref": "Her <unk> speaks back to them the words of hope and welcome they need to <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "当然，这不是米勒和特朗普曾想要承认的观点。",
+    "ref": "And of course, this is not the perspective <unk> and Trump want ever to <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "他们火炬不是为了<unk>道路，而是为了点燃他们唯一力量来源的仇恨。",
+    "ref": "Their torch is meant not to light the way, but to <unk> the <unk> that are their only source of power.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "2006年，萨<unk>凭借独特的<unk>加盟环球<unk>，成为与环球英国总部签约的第一个中国人。",
+    "ref": "In 2006, <unk> <unk> with her unique musical style, joined Universal <unk> Group, and became the first Chinese national to sign a contract with Universal <unk> Group’s headquarters in the UK.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "2017 年<unk>：尼尔?<unk> (<unk> <unk>) 高度<unk>了英国国家队中的苏格兰队员",
+    "ref": "World <unk> <unk> <unk> Black <unk> Scottish members of <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "艾里德?多<unk> (<unk> <unk>) 回忆起当时英国国家队只有两名苏格兰人。",
+    "ref": "<unk> <unk> recalls a time when only two Scots made the <unk> team",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "英国<unk>协会执行主任尼尔?<unk>表示，<unk>小组中的由 16 名<unk>的苏格兰人组成的<unk>将对“国家队做出巨大贡献”。",
+    "ref": "UK <unk> performance director <unk> Black says the <unk> Scottish contingent in the World <unk> squad will make <unk> massive contribution to the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "被挑选参加于<unk>开幕的 2017 年伦敦<unk><unk>的苏格兰田运动员数量创下历史之最。",
+    "ref": "A record number of Scottish athletes have been selected for London 2017, which starts on <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "<unk>认为，“苏格兰正取得非同寻常的发展”，英国<unk>运动员必须从中学习。",
+    "ref": "Black believes <unk> something special <unk> in Scotland and UK <unk> must learn from that.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "“我们接受并设法理解这一点，而且我们会<unk>直到我们取得成功 ”，<unk>说。",
+    "ref": "<unk> embrace it and <unk> trying to understand it and <unk> push on that until we work it <unk> Black said.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "“我找苏格兰体育学院的的人员谈话。他们认为这与他们的作为有关。",
+    "ref": "<unk> speak to people in the Scottish Institute of <unk> and they think <unk> something to do with what <unk> done.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "苏格兰<unk>运动员认为这与他们的作为有关。",
+    "ref": "Scottish <unk> think <unk> something to do with what <unk> done.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "英国<unk>协会认为这与他们的作为有关。",
+    "ref": "British <unk> <unk> something to do with what <unk> done.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "就连街头人士也这么认为。",
+    "ref": "And the <unk> on the corner street, too.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "无论情况如何，这都是极其辉煌的。“",
+    "ref": "Whatever the combination of circumstances, <unk> absolutely <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "多位苏格兰<unk>运动员是<unk>角逐者，包括<unk>?<unk> (<unk> <unk>) 和安德鲁?布<unk> (Andrew <unk>) ，他们将在 5,000 米与穆?<unk> (<unk> <unk>) 一比高低，而艾里德?多<unk> (<unk> <unk>) 则被小组选为<unk>。",
+    "ref": "Several of the Scottish athletes are <unk> <unk> including <unk> <unk> and Andrew <unk> - who will race against Sir <unk> <unk> in the <unk> while <unk> <unk> was voted by the squad to be team <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ff9043315b9116be97d1e1d7d5730c8fb7cafce2d8523451f477636f0afd5a6e"
+  },
+  {
+    "src": "“艾里德有点<unk>。",
+    "ref": "<unk> is slightly modest.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "她的<unk>演讲真是令人难以置信 ”，<unk>说道。",
+    "ref": "Her <unk> speech was <unk> says <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "“许多<unk>运动员员，无论他们是否为苏格兰人，或不论在<unk>生活或训练，走出<unk>都满怀自豪，<unk>地走出<unk>。",
+    "ref": "<unk> number of <unk> whether they were Scottish or wherever they live or <unk> walked out of that room feeling hugely proud and really <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ec1f28642f17d9d77560edc76f76f3ba2253ad55f4c9db16edf66aa9238b296c"
+  },
+  {
+    "src": "艾里德自然投入的激情和真感情很不错。”",
+    "ref": "The passion and real feeling that <unk> naturally put into it were <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "这<unk>在其第五次<unk>中参加 400 米<unk>比赛的英联邦<unk>得主表示，英国国家队中有 16 名苏格兰人，这是“令不可思议的”。",
+    "ref": "The Commonwealth silver <unk> who will compete in the <unk> hurdles at her fifth World <unk> says <unk> <unk> 16 Scots are in the British team.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "此前，参加<unk>的苏格兰<unk>运动员人<unk>为7人，也就是 1983 年和2015年取得的<unk>人数。",
+    "ref": "<unk> previous best total of athletes at the worlds was <unk> achieved in 1983 and 2015.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "<unk>选手<unk>领军人物。在过去一年<unk>她下了五项英国记录和两项欧洲纪录。",
+    "ref": "<unk> <unk> <unk> is leading the way, having set five British and two European records in the past year.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "dbb44557b4f2d309d53cee1443df7bab9e31017fb3ed40e5bbb1cf895b994ef2"
+  },
+  {
+    "src": "她将参加 1500 米和 5000 米项目比赛。",
+    "ref": "She will go in the <unk> and the <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "参加 1500 米项目比赛的克里斯?<unk>则是另一位值得关注的苏格兰选手，之前，她在<unk>取得了很好的成绩，分别在英国国家对<unk>和奥运周年<unk>获胜。",
+    "ref": "Chris <unk> who runs in the <unk> is another <unk> to watch, following a great season that included victory at the British <unk> trials and the <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "多<unk>回想起她参加第一次世界<unk>，当时<unk>唯一的<unk>苏格兰人是李?麦康奈尔 (Lee <unk>) 。",
+    "ref": "<unk> <unk> her first world <unk> when the only other <unk> in the team was Lee <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "<unk>说，令她深感自豪的是，她的这么多同胞不但加入团队中，而且在一些情况下，还将挑战<unk>，角逐进入决赛。",
+    "ref": "The team captain says <unk> <unk> <unk> of the fact so many of her <unk> have not only made the team, but, in some cases, will be challenging for <unk> and competing to make <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "“成为国家队<unk>的<unk>在于它是由国家队的其他队员投票选出的。因此，知道你的<unk>投票选你去争取极为不寻常的成就，无论如何，对我来说，这都是很大的荣幸”，她补充道。",
+    "ref": "<unk> special thing about being team captain is that it was voted for by the other members of the team, so that it was such a huge <unk> <unk> but to know that your <unk> have voted for you and chosen you made it <unk> for <unk> she added.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "“当然，我为所有的苏格兰队员感到非常自豪。",
+    "ref": "<unk> <unk> very proud of all the Scots <unk> made the team.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "这只是表明我们走了多远。",
+    "ref": "It just shows how far <unk> come.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "而且他们都是这里的老牌<unk>运动员，即将朝<unk><unk>的目的迈进的<unk>运动员。",
+    "ref": "And <unk> here as well-established <unk> athletes that are going to be looking to get on <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "我的<unk><unk>如何？",
+    "ref": "As for my <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk>，我认为它非常<unk>。",
+    "ref": "<unk> I think it went well.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "我<unk>参照这一事实，即在这种情况下，我们是非常幸运的，因为我们在<unk>举行<unk>。",
+    "ref": "I just drew on the fact that <unk> very lucky in this situation in that <unk> got a home World <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "因此，我们借助<unk>支持，以及因回到奥林匹克体育场而得以壮大，这才真正重要。",
+    "ref": "So <unk> really just the importance of drawing on that home support and thriving on the fact that <unk> back at the Olympic <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "我将获得第二次机会参加比赛，而那里的氛围将<unk>。”",
+    "ref": "<unk> getting a second chance to go out there and compete and <unk> just going to be such an amazing atmosphere out <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "2016年华为员工共18万，雇员费用高达<unk>亿，同比增长了21%。",
+    "ref": "In 2016, <unk> had total staff strength of <unk> with wages amounting to <unk> billion, up 21% <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "在脸<unk>屏蔽批评者：如果你不能忍受选民的责难，就不要竞选公职",
+    "ref": "<unk> critics from <unk> <unk> run for public office, if you <unk> take heat from voters",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "我们的国父了解不良媒体的作风。",
+    "ref": "The father of our country knew something about bad press.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "美国人都爱华盛顿，但不久之后，各大报纸就开始猛烈抨击他的一切，从国内政策到政治原则，一个都<unk>。",
+    "ref": "Americans loved George Washington, but it <unk> take long for newspapers to start <unk> him on everything from domestic policy to his political principles.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "他对这些批评很<unk>，毫无疑问。",
+    "ref": "He <unk> at the criticism, sure.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "但是他并没有把这些批评者噤声。",
+    "ref": "But he did not silence his critics.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "因为早在 <unk> 年，华盛顿就说过，“言论自由被剥夺——我们就会像<unk>一样在沉默和愚昧中被<unk>。”",
+    "ref": "Because back in <unk> Washington said, <unk> freedom of <unk> may be taken away - and, <unk> & silent we may be <unk> like <unk> to the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "这让我想到了马里兰州的州长拉里·<unk>，他需要向华盛顿学习。",
+    "ref": "That brings me to Maryland <unk> Larry <unk> who needs to work on being more like Washington.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "<unk>的职员屏蔽并删除了至少 450 人的帖子，因为他们在他的脸书<unk>上发表自己的观点。",
+    "ref": "<unk> staff has blocked and <unk> the posts of at least 450 people who voiced their opinions on his official Facebook <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "美国公民自由联盟本周早些时候就此对他提起了诉讼。",
+    "ref": "And the American Civil <unk> Union sued him for that earlier this week.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "该州长的职员认为此次诉讼十分草率，网上报道充斥着他们的<unk>：“谁在乎？”",
+    "ref": "The <unk> staff dismissed the lawsuit as <unk> and the online commentary was rich with a <unk> <unk> backlash.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "dbb44557b4f2d309d53cee1443df7bab9e31017fb3ed40e5bbb1cf895b994ef2"
+  },
+  {
+    "src": "很多人说“这只是脸书而已。”",
+    "ref": "<unk> only <unk> plenty of <unk> said.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "但，这很重要。",
+    "ref": "But it matters.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "这一点尤其重要，因为面对的是<unk>这样的人。",
+    "ref": "And it especially matters when <unk> a <unk> like <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "这是一位在一个民主占大多数的州担任州长的共和党人，而且他还<unk>地受欢迎。",
+    "ref": "This is a Republican governor in an overwhelmingly Democratic state who is <unk> popular.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "在全国 50 位州长中，他得到的好评位列第二。",
+    "ref": "He has the <unk> approval rating of the <unk> 50 <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk>并不是一个反动的<unk>分子。",
+    "ref": "<unk> is not a reactionary <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "他平稳掌管马里兰州，严格遵守规则。",
+    "ref": "<unk> shown a steady hand in leading his state and a stern adherence to principles.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "他也非常善于将脸书作为和选民<unk>的主要方式，<unk>地在<unk>上首次展示他化疗后的<unk>。",
+    "ref": "<unk> also been pretty <unk> at using Facebook as a primary means to connect with his <unk> <unk> <unk> his <unk> head after <unk> treatments on his <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "所以屏蔽来到州长<unk>评论的人完全没有必要，最终也十分危险。这个<unk>是一个公共论坛，是由公众纳税供养的职员标榜的官方管理平台。",
+    "ref": "So blocking people who come to the <unk> page - which is a public <unk> labeled as official and administered by staff members paid public tax dollars - is unnecessary and ultimately dangerous.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "在《华盛顿邮报》的一次采访中，<unk>的发言人<unk><unk>·<unk>这位州长的行为辩护说，她认为屏蔽他们的评论不过是想让他们克制一点。",
+    "ref": "In an interview with The Washington <unk> <unk> <unk> <unk> <unk> defended the <unk> actions, arguing that blocking the comments was nothing more than moderating them.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ec1f28642f17d9d77560edc76f76f3ba2253ad55f4c9db16edf66aa9238b296c"
+  },
+  {
+    "src": "但是他们过分<unk>将其描述为席卷网络的<unk>或愤世嫉俗者。",
+    "ref": "But <unk> too easy to use the image of trolls or <unk> or <unk> <unk> lashing out online.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "《华盛顿邮报》与被<unk>屏蔽的人面对面交谈过。",
+    "ref": "The Post talked to some of the real people blocked by <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "他们只不过是普通人在跟自己选出的领导对话：他们的身份是老师、小企业主和牧师，并不是什么<unk>。",
+    "ref": "And <unk> just that - real people talking to their elected <unk> a <unk> a business owner and a <unk> not <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "他们<unk>自己的评论有深度、有<unk>，并不下流。",
+    "ref": "They all said that their comments were <unk> thoughtful and not <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "这位牧师在他的帖子中引用了《圣经》的话，呼吁<unk>铭记他的天主教信仰。",
+    "ref": "The pastor quoted the <unk> in his <unk> appealing to <unk> Catholic faith.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "马里兰州<unk>的大律师<unk>米·<unk>·拉马尼并没有愤世嫉俗，但是她询问了关于仇恨犯罪的问题。",
+    "ref": "Attorney <unk> <unk> <unk> of <unk> <unk> <unk> <unk> but she asked about hate crimes.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "她在《华盛顿邮报》的新闻故事评论部分中写道，“我很礼貌地评论道，我对他没有回复仇恨犯罪和其他最近的新闻事件表示失望。",
+    "ref": "<unk> politely commented that I was disappointed in his lack of response to hate crimes and other recent news <unk> she wrote in the comment section of The <unk> news story.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "我同样也不喜欢<unk>对同一个话题发表评论，因为这些人会直接被某些人忽视，认为他们是所谓的<unk>心理，而不是把他们当成一群<unk>的公民。”",
+    "ref": "<unk> also do not appreciate that idea that when a number of people comment on the same topic, they are immediately disregarded by some as a so-called collective effort, rather than recognized as a large group of concerned <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "州长职员所称的“密集垃圾信息轰炸”在其他人看来可能是“坚持主张”。",
+    "ref": "What the <unk> staff called a <unk> <unk> <unk> others would probably call <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "脸书时代让修改一条信息变得轻而易举，只需要屏蔽一个批评者或删除一条负面评论。",
+    "ref": "The Facebook era makes it easy to tailor a message by simply blocking a critic or <unk> a negative <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "而且还清除<unk>比过去干净，在过去那个年代要做到同样的效果需要派遣职员<unk>搜集并<unk>带批评言论的报纸或者将抗议者逮捕或噤声。",
+    "ref": "<unk> a lot cleaner than the old days, when doing the same would have required sending staff out to collect and burn newspapers with critical <unk> or <unk> and silencing <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "但是那确实是现在正在发生的事，不过是在数字层面上。",
+    "ref": "But <unk> exactly <unk> happening, only <unk>",
+    "hyp": "The the <unk> <unk> <unk>",
+    "hyp_id": "0d6bfa19ff833f4d7764a2aa879a27dcff93d5a04d4fff6198cb5496d76cb18f"
+  },
+  {
+    "src": "<unk>不是第一个<unk>脸书和其他社交媒体上噤声他人而受到指责的公共官员。",
+    "ref": "<unk> <unk> the first public official to be criticized for <unk> Facebook and other social media.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "特朗普总统就正被推特用户起诉，因为他在推特上屏蔽了他们。",
+    "ref": "President Trump is being sued by Twitter users who were blocked from his Twitter <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "上周在弗吉尼亚州出现了一个里程碑式的裁决，就是关于此类问题的。",
+    "ref": "One of the first landmark rulings on this issue came down last week in <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "据美国亚历山大市的地区法官詹姆斯·<unk>·<unk>里斯称，<unk>监督委员会主席从她的脸书<unk>屏蔽选民的行为违反了第一修正案。",
+    "ref": "The chair of the <unk> <unk> Board of <unk> violated the First <unk> according to U.S. District Judge James <unk> <unk> in <unk> when she banned a constituent from her Facebook <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "<unk>州长<unk>·<unk> (R) 也因其对脸书和推特的使用而受到美国公民自由联盟的<unk>。",
+    "ref": "And in <unk> <unk> <unk> <unk> <unk> also got a visit from the <unk> over his use of Facebook and Twitter.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "这不应该这么难。",
+    "ref": "This <unk> be so hard.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "在华盛顿时代，负担得起的<unk>和互联网有着相似的影响力。",
+    "ref": "In <unk> time, the era of affordable <unk> had an impact much like the Internet.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "新闻报纸的数量在 <unk> 年到 1800 年间翻了<unk>，还有<unk><unk>猛烈批评他的领导。",
+    "ref": "The number of newspapers <unk> between <unk> and <unk> and anonymous letter writers <unk> his leadership.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "而且甚至在那个时候，华盛顿也有针对他的匿名<unk>。",
+    "ref": "And even back then, Washington had anonymous <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "人们使用<unk>克拉、<unk>乌斯、贝<unk>留、<unk>等<unk><unk><unk>严厉批评华盛顿的决策。",
+    "ref": "People using the <unk> <unk> <unk> <unk> and <unk> all wrote letters to newspapers <unk> <unk> decisions.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "根据乔治·华盛顿报纸网上项目收集的历史文件记载，他的办公室被<unk>淹没了，都在批评他在和英国签订的《英国国王<unk>与<unk>友好、<unk>与航海条约》上的态度。",
+    "ref": "<unk> criticizing his stand on the Treaty of <unk> <unk> and <unk> with Britain overwhelmed his office, according to the historical documents collected by the online Papers of George Washington <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "但是他没有将他们噤声。",
+    "ref": "But he did not silence them.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "言论自由、不同政见自由和演讲自由是这个国家的根基。",
+    "ref": "Freedom of speech, dissent and discourse lie at the very foundation of our nation.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "而真正的领导者需要接受这一点。",
+    "ref": "And true leadership means accepting that.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "<unk><unk>的<unk>都<unk>着人们的敏感神经。",
+    "ref": "Any movement in the property market would have an impact on the <unk> of the general public.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "<unk>是很多城市房地产调控政策的一道硬<unk>。",
+    "ref": "<unk> quota is a fixed threshold many cities would adopt when implementing real estate control measures.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "2017年5月，<unk>出台规定，本科生连续<unk>社保半年，可享有本地<unk>户口居民同等<unk>政策；",
+    "ref": "In May 2017, <unk> issued regulations stating that <unk> who make social security contributions <unk> for half a year will be entitled to be treated under the same residential property purchase policies as that of local residents with permanent <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "6月，<unk>出台政策，规定大学生毕业3年内凭<unk>和<unk>即可<unk>。",
+    "ref": "In June, <unk> issued policies that <unk> that university students may settle in the city within three years of graduation based on their graduation <unk> and employment <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "随后政策加码，官方表示，“大学生可以低于<unk>20%的价格买房”；",
+    "ref": "After the policy was <unk> officials stated that <unk> students are entitled to purchase residential property at a 20% discount to market <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "7月，成都出台规定，<unk><unk>及<unk>的青年人才，凭<unk>即可申请<unk>成都。",
+    "ref": "In July, <unk> issue regulations stating that young talent with overseas university <unk> degree or higher academic qualifications may apply to settle in <unk> based on their graduation <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "除此之外，还有<unk>、上海<unk>等城市或区域也出台了 “人才引入”相关政策，对人才<unk><unk>降低门槛。",
+    "ref": "In addition, <unk> <unk> in Shanghai, as well as other cities or regions also issued relevant <unk> <unk> policies, and lowered the threshold for buying residential property and settling locally for talents.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ec1f28642f17d9d77560edc76f76f3ba2253ad55f4c9db16edf66aa9238b296c"
+  },
+  {
+    "src": "<unk>认为，这实际上是各大城市对于人口尤其是人才的争夺，留住人口尤其是人才，城市才具有竞争力，这才是这些房地产政策最重要的意义。",
+    "ref": "Zhang <unk> believed that this was, in fact, large cities competing for population, particularly talent. Only by retaining population, particularly talent, can a city be competitive. This then, was the key significance of these real estate policies.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "有人甚至认为，这意味着<unk>“<unk>”取消的<unk>。",
+    "ref": "Some even believed that this implied that the time has come to abolish residential property <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "<unk>导演<unk>表示，拍摄计划由来已久，第一次改编剧本是在1999年的时候，甚至还准备找<unk>来<unk><unk>十三。",
+    "ref": "Director <unk> <unk> said that day that he had plans to film for a long time. The first time the <unk> was adapted was in 1999. He was even prepared to get <unk> <unk> to play the role of <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "<unk>·<unk>蒂期待在<unk>俱乐部享受回家的感觉",
+    "ref": "<unk> <unk> hopes for home <unk> at <unk> Club",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "<unk><unk><unk>俱乐部举办第 25 届苏格兰<unk><unk>，前欧洲冠军<unk>·<unk>蒂将在接下来的三天中享受回家的感觉。",
+    "ref": "Former European No 1 <unk> <unk> will be hoping for home <unk> over the next three days as the <unk> Club in East <unk> hosts the <unk> edition of the Scottish Senior <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "这位北爱尔兰人去年带领<unk>的<unk>菲尔德·林克斯<unk>了决赛，但最终输给了保罗·<unk>斯。他现在为该新<unk>工作，代表俱乐部创始人兼首席执行官<unk>·<unk>蒂担任赛事大使。",
+    "ref": "The Northern <unk> who led next door at <unk> <unk> heading into the final round last year before losing out to Paul <unk> is attached to the new <unk> and is acting as <unk> ambassador on behalf of the <unk> founder and CEO Jerry <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "c887ee474ba7d790665f67057268339b875e23e0f0ef0d25d1fa03c5c0596dab"
+  },
+  {
+    "src": "<unk>蒂说：“我目睹了<unk>俱乐部成立，我们也会通过这次比赛见证它的荣光。",
+    "ref": "<unk> watched <unk> Club being built, and <unk> seeing it come to its glory with this <unk> said <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "运动员们将会看到这个<unk>的最佳面貌和最佳状态。",
+    "ref": "<unk> players will see this course at its <unk> it is in <unk> condition.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk>把这个地方创办得无与伦比。",
+    "ref": "Jerry has done a <unk> job setting this place up.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "他是此次比赛的热衷拥护者，也对在这里取得成就感到十分自豪。",
+    "ref": "<unk> a keen advocate of this game and is proud of his achievement here.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "这是展示这个<unk>的最佳舞台。”",
+    "ref": "This is a great showcase for this <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "英格兰人<unk>斯期待第一次<unk>，尽管在 32 年的职业生涯中，他已同时赢得欧洲<unk>和欧洲挑战<unk>。",
+    "ref": "<unk> <unk> is looking forward to defending a <unk> for the first time despite winning on both the European Tour and European Challenge Tour in his <unk> career.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "这位<unk><unk>的运动员说：“这确实非常特别。",
+    "ref": "<unk> does feel really <unk> said the <unk> player.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "我没有<unk><unk><unk><unk><unk>，因为在我获胜的第二年，这场比赛就取消了。",
+    "ref": "<unk> <unk> get to defend the <unk> Open because that was taken off the schedule the year after I won it.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "来到这个地方感觉很神奇，",
+    "ref": "Coming back to this part of the world is <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "在这里<unk>非常美妙。",
+    "ref": "<unk> a wonderful place to play <unk> in.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "去年的回忆一一浮现，对我和我的妻子<unk>来说，去年的获胜对我们有着特殊的意义。",
+    "ref": "The memories from last year are coming back and it was special for me and my wife Sharon to win last year.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "那真的是一次特别的回忆，我们会永远铭记。”",
+    "ref": "It was a really special time and one we will always <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "回到<unk>比赛的是<unk>·奥尔，他今年早些时候<unk> 50 岁，然后还参加了欧洲<unk><unk>。",
+    "ref": "Making his return to action on home soil is Gary <unk> who joined the European Senior Tour after turning 50 earlier this year.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "这次是他自 2013 年苏格兰<unk><unk>起第一次参加苏格兰比赛。",
+    "ref": "This event will be his first Scottish appearance since the <unk> Asset Management Scottish Open in 2013.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "<unk><unk>人奥尔表示：“回家<unk>比赛总会有更多意义，",
+    "ref": "<unk> always means a little bit more when <unk> playing at <unk> said <unk> man <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "你想要做好；但是又能感觉到<unk>额外的压力。",
+    "ref": "<unk> want to do <unk> but you do feel that extra pressure.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "能够再次比赛我真的很享受，我一直在<unk>。",
+    "ref": "<unk> really enjoyed playing again and <unk> played some solid <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "我很满意目前的状况。”",
+    "ref": "<unk> happy with how <unk> going so <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "加入<unk><unk>的是前<unk>获胜者<unk>·<unk>和<unk><unk>冠军保罗·<unk>、<unk>·<unk>、马克·詹姆斯和马克?<unk>提。",
+    "ref": "<unk> the <unk> in the field are former <unk> winner <unk> <unk> and Senior major champions Paul <unk> <unk> <unk> Mark James and Mark <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "场上共<unk>苏格兰运动员，奥尔和前<unk><unk><unk>·<unk>是其中<unk>，另外四位为安德鲁·<unk><unk>、斯蒂芬·麦<unk>特、比尔·<unk>和罗斯·德<unk>。",
+    "ref": "<unk> and former <unk> Cup captain Sam <unk> are among six Scots in the field, the others being Andrew <unk> Stephen <unk> Bill <unk> and <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b9f017c22e24a0e2dc459843decc065560e2b734e1c50702643da0eccb14e215"
+  },
+  {
+    "src": "<unk>免费，<unk>为<unk>一位乘客的<unk>收费 5 英镑，<unk>两位或多位乘客的<unk>收费 10 英镑。",
+    "ref": "<unk> is free of charge, with car <unk> charged at <unk> per car with one <unk> and <unk> per car with two or more <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ec1f28642f17d9d77560edc76f76f3ba2253ad55f4c9db16edf66aa9238b296c"
+  },
+  {
+    "src": "所收费<unk>捐献给前列腺癌慈善组织 <unk> Cancer UK。",
+    "ref": "All proceeds go to <unk> Cancer UK.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "中国<unk>环境<unk>局长<unk>22日在北京介绍，8月份，全国范围内实施<unk>连续处罚案件共57件，今年初实施的新修订《环境保护法》明显加码中国环境执法力度。",
+    "ref": "<unk> <unk> Director of the Bureau of Environmental <unk> of the Ministry of Environmental <unk> said on the <unk> in Beijing that on a nationwide basis, <unk> cases were subject to consecutive daily <unk> The newly amended <unk> Protection <unk> implemented at the beginning of this year, has significantly enhanced environmental law enforcement efforts in China.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "目前，中国各地环保机关可使用<unk>连续处罚、<unk>扣押、<unk><unk>以及<unk><unk>等处罚手段<unk>环境违法行为，并与<unk>配合<unk>环境犯罪。",
+    "ref": "<unk> the environmental protection <unk> across China may use various means of punishment to investigate and deal with conduct in violation of environmental regulations such as impose consecutive daily <unk> close down operations and/or <unk> limit or suspend production, and persons held under administrative <unk> They will also work together with judicial <unk> to punish environmental crimes.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "<unk>介绍，8月份，中国各地共实施<unk>、扣押案件共<unk>件；实施<unk>、<unk>案件共<unk>件；<unk><unk>共<unk>起，<unk>涉嫌环境污染<unk>共<unk>件。",
+    "ref": "<unk> <unk> said that in August, a total of <unk> cases were concerned with closing close down operations and/or <unk> <unk> cases <unk> to limiting or suspension of <unk> <unk> cases were concerned with persons held under administrative <unk> and <unk> cases <unk> to persons held under suspicion of environmental pollution crimes.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "c887ee474ba7d790665f67057268339b875e23e0f0ef0d25d1fa03c5c0596dab"
+  },
+  {
+    "src": "其中，<unk>实施<unk>连续处罚7件，当前，中国正在从<unk>管控至<unk>嵌入，全面<unk>环境污染治理。",
+    "ref": "In particular, <unk> imposed consecutive daily fines on seven cases. At present, China is moving from control at the end toward being involved throughout the entire process, intensifying efforts to treat environmental pollution on an <unk> basis.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "虽然经济下行压力显现，但中国<unk>此前已明确表态，中国应<unk>好环境保护在经济发展中的定位，增强“绿色<unk>”，越是经济增速下行，越不能放松环保，发挥好环境保护对经济的优化作用。",
+    "ref": "Although pressures from slower economic growth have emerged, China’s Ministry of Environmental Protection had already made its position clear; China should correctly and appropriately position environmental protection in economic growth, and increase “green <unk> The more economic growth <unk> the more it should hold fast to environmental protection, and ensure that environmental protection plays a positive role in <unk> the economy.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "没有最高，只有更高，<unk><unk>股价在创新高的道路上根本<unk>。",
+    "ref": "There’s no peak, only higher. The share price of <unk> <unk> has continued to set new highs <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "1月9日，A股“<unk>”<unk><unk>股价再次创出历史新高，截至<unk><unk><unk>元，总市值达<unk>亿元，距离万亿市值仅<unk>。",
+    "ref": "On January 9, <unk> <unk> <unk> <unk> set another new record high, closing at <unk> for the day. Total market capitalization amounted to <unk> billion, just a <unk> throw from the <unk> trillion market capitalization mark.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "816aad79f2d61a858b88f103be5ef0c517ae6c4e9ea78ae50ee2a5a00fbe4bad"
+  },
+  {
+    "src": "<unk>元的<unk>较此前<unk>元的<unk>上涨了200元。",
+    "ref": "The guidance price of <unk> was <unk> higher than the previous retail price of <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "2017年12月28日<unk><unk><unk><unk>研究决定，自2018年起适当上调<unk><unk>，平均上调幅度18%左右。",
+    "ref": "On December 28, <unk> <unk> announced that upon study, it has decided to appropriately hike the price of <unk> liquor products in <unk> on average, the magnitude of the hike would be approximately 18%.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "此次<unk>举动刺激了<unk><unk>股价<unk>，<unk>记者统计发现，<unk><unk><unk>消息宣布的8个<unk>以来，<unk><unk>股价上涨了95元，涨幅超过14%。",
+    "ref": "This price hike caused <unk> <unk> shares to <unk> A Beijing <unk> Post <unk> calculated and found that <unk> <unk> share price had increased by <unk> or more than <unk> over the eight trading days since the company announced its price <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0db16d38662affc5b2b9742f85803e59aab4e692de298a382d84bfe493178486"
+  },
+  {
+    "src": "统计显示，2017年<unk>1-3季度生产总值为<unk>亿元，<unk>市值将<unk>去年前三季度GDP远远甩在身后。",
+    "ref": "Data showed that the aggregate output value of <unk> Province for the first to the third quarters of 2017 amounted to <unk> billion. <unk> market capitalization far <unk> <unk> <unk> GDP for the first three quarters.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "在<unk>的带动下，<unk>类上市公司纷纷开启<unk><unk>节奏，<unk>消费升级带来的红利。",
+    "ref": "<unk> by <unk> listed <unk> companies began to introduce price hikes and control supply, enjoying the dividend brought about by consumption upgrading.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "2017年以来，大多数<unk>上市公司股价持续大涨，其中<unk>、<unk>、<unk>、<unk><unk>等股价涨幅超过一倍。",
+    "ref": "2017 <unk> the share prices of most listed <unk> companies have continued to <unk> In particular, the share prices of <unk> <unk> <unk> <unk> <unk> <unk> <unk> and <unk> <unk> have at least doubled",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ec1f28642f17d9d77560edc76f76f3ba2253ad55f4c9db16edf66aa9238b296c"
+  },
+  {
+    "src": "在进入微软的实时对话翻译模式后，屏幕被分为<unk>，对话的两位用户可以各自选择自己那一边的语言。",
+    "ref": "After entering Microsoft’s real-time <unk> translation <unk> the screen is divided into two parts. The two users in the <unk> may each select their own language.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fd7b550e14a55920d99121075c652f839df1b2c67f3482eae29d7abf9afe136b"
+  },
+  {
+    "src": "12月21日早上，<unk>完成手术，医生修复了她5<unk><unk>的所有<unk>和2<unk>神经。",
+    "ref": "On the morning of December 21, <unk> operation was completed, and all <unk> and two <unk> of her five fingers were <unk> well.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "持有中国<unk>的外籍高层次人才创办<unk>企业，可享受“<unk>”。",
+    "ref": "High-level foreign talent with Chinese green cards who found technology enterprises may enjoy <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "“<unk>”措施中，第一条就是“支持持永久<unk><unk>外籍高层次人才创办<unk>企业”。",
+    "ref": "The first of the <unk> measures to further open up and actively <unk> foreign <unk> states that China would <unk> high-level foreign talent who hold permanent residence permits found technology related <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "国家统计局数据显示，2017年前三季度中国GDP同比增长<unk>，比<unk>同期加快0.2个百分点。其中一季度、二季度、三季度分别增长<unk>、<unk>、<unk>，连续9个季度运行在6.7-<unk>区间，保持中高速增长。",
+    "ref": "<unk> from the National Bureau of Statistics revealed that China’s GDP grew <unk> year-on-year for the first three quarters of 2017, 0.2 percentage points higher than the same period last year. In particular, the growth rates for the first, second and third quarters were <unk> <unk> and <unk> respectively. For nine consecutive quarters, GDP growth <unk> between 6.7% and <unk> maintaining a medium to high rate of growth.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "c887ee474ba7d790665f67057268339b875e23e0f0ef0d25d1fa03c5c0596dab"
+  },
+  {
+    "src": "北京时间12月20日，<unk><unk>通过社交媒体宣布顺利<unk>一子，升级做了母亲。",
+    "ref": "On December <unk> Beijing time, <unk> announced through social media that she had given birth to a child and upgraded to be a <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "<unk>普京将拥有<unk>新<unk>：<unk>比<unk>便宜15％",
+    "ref": "Russian media claimed Putin has a new locally produced <unk> 15% cheaper than a <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "<unk>网1月18日报道 <unk>，俄罗斯<unk>部长<unk><unk>表示，总统普京“车队”的汽车<unk>从600-700万<unk>起。",
+    "ref": "<unk> News January 18 report Russian media claimed that Russia’s Minister of Trade and <unk> <unk> <unk> said that the unit price of the automobiles in President Putin’s <unk> is priced at <unk> million or higher.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "预算目标是把<unk>在比<unk>-<unk>S级汽车低15%。",
+    "ref": "The budget target is to contain the price at 15% lower than a <unk> <unk> class.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "据俄罗斯<unk>1月16日报道，2月底至3月初，总统座<unk>的主要研发单位——俄罗斯国家汽车工程研究院（<unk>）将向联邦<unk><unk>16<unk>。",
+    "ref": "Russia <unk> network reported on January 16 that from the end of February to the end of March, the key R&D unit for the President’s automobiles - Central Scientific Research <unk> and <unk> <unk> Institute <unk> - will deliver 15 automobiles to the Federal <unk> Service.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "23f4e06736da721fdb4cde7d5586d07f5149f33b622c6f4c90c042dbf3e32332"
+  },
+  {
+    "src": "报道称，“车队”项目要求用统一<unk>平台为国家<unk>制造3种汽车——加长轿车、<unk>和小型<unk>。该项目的预算拨款为<unk>亿<unk>。",
+    "ref": "The report states that the <unk> project requires manufacturing three types of vehicles - <unk> <unk> vehicle and a small <unk> vehicle - for the nation’s leader using a the same <unk> platform. The budget allocation for this project is <unk> billion.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a60e3d1205fc37344c5c758f97a1e53473132f62726de09fd19c5008a61e4bc3"
+  },
+  {
+    "src": "报道称，为总统制造苏联以来<unk><unk>加长轿车的消息出现在大约5年前。根据研发单位的计划，新汽车将安装800<unk>发动机和<unk>，<unk>重量为6吨。",
+    "ref": "The report claimed that news of manufacturing the first locally produced <unk> in Russia for the President emerged some five years ago. According to the plans of the R&D unit, the new automobile will be equipped with a <unk> engine and <unk> and will weigh six <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "<unk>，德国<unk>公司的工程技术团队参与了<unk>研发。",
+    "ref": "It is understood that the engineering and technology team of Germany’s <unk> is participating in the R&D of the engine <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "<unk><unk>1月16日报道，<unk><unk>告诉记者，“车队”系列汽车将从2019年起对外零售，各种配置的<unk>都能买到。",
+    "ref": "Elsewhere, according to reports by <unk> on January 16, <unk> told reporters that the <unk> series of automobiles will be sold <unk> from 2019. All <unk> models will be available.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a60e3d1205fc37344c5c758f97a1e53473132f62726de09fd19c5008a61e4bc3"
+  },
+  {
+    "src": "这位部长说：“从明年开始，所有感兴趣的人都能<unk>，不管是<unk>型还是<unk>，没有任何销售限制。”",
+    "ref": "This minister said, <unk> next year <unk> all interested parties may place an order. There are no sale restrictions on any model, whether it is the <unk> or the luxury <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "俄罗斯<unk>部计划在2020年后把“车队”系列汽车的年产量提高到1000辆以上。",
+    "ref": "Russia’s Ministry of Trade and Industry plans to increase the annual production of the <unk> series of automobiles to more than 1 million after 2020.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "<unk><unk>说：“我们现在生产18辆就<unk>了，今年的产量是70辆以上，明年达到200辆，后年300辆甚至更多。”",
+    "ref": "<unk> said, <unk> 18 units puts us at full capacity now. This year’s output is more than 70 <unk> with 200 units next year, and 300 or even more the year <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "（<unk>/<unk>）",
+    "ref": "<unk> <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "各位观众，晚上好",
+    "ref": "Good evening, <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "今天是十二月一日<unk>，<unk>十月<unk>，欢迎收看新闻<unk>",
+    "ref": "Today is December <unk> <unk> the <unk> day of the <unk> month of the <unk> <unk> welcome to <unk> Wen <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "首先为您介绍今天节目的主要内容。",
+    "ref": "In <unk> program, we will cover the following main content.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "习近平出席中国共产党与世界政党高层<unk><unk>并发表主旨讲话，<unk>出席<unk>第一次<unk>。",
+    "ref": "Xi Jinping attended the opening ceremony of the CPC in Dialogue with World Political Parties High-level Meeting and delivered a keynote speech. Wang <unk> attended the first <unk> session of the dialogue.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "习近平分别会见",
+    "ref": "Xi Jinping met respectively",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "前来出席中国共产党与世界政党高层<unk>的缅甸<unk><unk>昂山素季和柬埔寨人民党主席、政府首相洪森。",
+    "ref": "with <unk> State <unk> Aung San Suu Kyi and President of the Cambodian People's Party and Prime Minister of the government Hun Sen, who came to attend the CPC in Dialogue with World Political Parties High-level <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "李克强会见俄罗斯总统普京。",
+    "ref": "Li Keqiang met with Russian President Putin.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "李克强抵达索契出席上海合作组织成员国总理<unk>会议。",
+    "ref": "Li Keqiang arrived in Sochi to attend the <unk> Prime <unk> Meeting of SCO Member <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk><unk>全国代表大会<unk>，<unk>代表<unk>致<unk>。",
+    "ref": "The 12th National Congress of the Chinese Association for the <unk> of Democracy opened in Beijing. On behalf of the CPC Central Committee, Wang <unk> delivered a <unk> message.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "多国政党领导人在北京参观<unk><unk>的五年大型<unk>，肯定中国巨变，分享中国发展经验。",
+    "ref": "The leaders of many countries' political parties visited the <unk> <unk> Five-Year Major <unk> <unk> in Beijing, , where they affirmed the tremendous changes that have taken place in China and shared in the experience of China's development.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fd7b550e14a55920d99121075c652f839df1b2c67f3482eae29d7abf9afe136b"
+  },
+  {
+    "src": "艰难推进，和谈双方开启近距离同步会议",
+    "ref": "on the Syria <unk> as both parties to the peace talks begin a closely <unk> conference.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "各位观众，今天的新闻<unk>大约需要三<unk>。",
+    "ref": "<unk> today's <unk> <unk> broadcast will be roughly 35 <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "接下来请您收看详细内容。",
+    "ref": "Next, please watch the <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "<unk>总书记、国家主席习近平十二月<unk>在<unk>出席中国共产党与世界政党高层<unk><unk>，并发表",
+    "ref": "On December <unk> General Secretary of CPC Central Committee and President Xi Jinping attended the opening ceremony of the CPC in Dialogue with World Political Parties High-level Meeting at the Great Hall of the People and delivered",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "题为《携手建设更加美好的世界》的主旨讲话",
+    "ref": "a keynote speech entitled <unk> a Better World <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "习近平强调政党要<unk>发展潮流、把握人类进步<unk>",
+    "ref": "Xi Jinping emphasized that political parties should conform to contemporary development trends, grasp the general trend of human progress,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "<unk>各方推动构建人类命运共同体的真诚愿望",
+    "ref": "to work with all parties to promote the construction of a community with a shared future for <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "政党在国家政治生活中发挥着重要作用，也是推动人类文明进步的重要力量。",
+    "ref": "Political parties play an important role in the political life of countries and are also an important force in promoting the progress of human civilization.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "269dab513d0cf5206b9da2d3fb773d3475f3b7486217edc29f41fe2fc32df72b"
+  },
+  {
+    "src": "年终<unk>，来自世界各国近<unk>政党和政治组织的领导人齐聚北京，<unk>合作<unk>。",
+    "ref": "At the end of the year, leaders of nearly 300 political parties and political organizations from all over the world gathered in Beijing to discuss plans for cooperation,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fd7b550e14a55920d99121075c652f839df1b2c67f3482eae29d7abf9afe136b"
+  },
+  {
+    "src": "习近平指出，今天人类生活的关联前所未有，同时人类面临的全球性问题也前所未有。",
+    "ref": "Xi Jinping pointed out that humankind is more interconnected than at any time in history, and that at the same time, humankind faces unprecedented global problems.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "世界各国人民前途命运越来越紧密地联系在一起。",
+    "ref": "The future and the <unk> of the citizens of every country in the world are increasingly <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "世界各国人民应该<unk><unk>理念，彼此理解、<unk>",
+    "ref": "People of all countries in the world should uphold the concept of one world, understand each other, seek common grounds while <unk> differences,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "共同为构建人类命运共同体而努力",
+    "ref": "and work together to make efforts to build a community with a shared future for <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "我提出一带一路倡议，就是要践行人类命运共同体理念。",
+    "ref": "I propose the Belt and Road Initiative, that is, to practice the concept of a community with a shared future for <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "习近平强调，我们要努力建设一个远离恐惧，普遍安全的世界，坚持共同、综合、合作、可持续的新<unk>。",
+    "ref": "Xi Jinping stressed that we must strive to build a world free from fear, universally safe, and that upholds a common, integrated, <unk> and sustainable new conception of security,",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3be326ea4a47bb9e31dcde6a58f7e23c56c98771b099a5d40be8bbb10387d771"
+  },
+  {
+    "src": "我们要努力建设一个远离封闭、开放包容的世界，坚持世界是<unk>的、文明是多样的理念。",
+    "ref": "We must strive to build a world far away from <unk> open to others, which uphold the principle that the world is rich and colorful and civilizations are diverse,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "让各种文明和谐共存。",
+    "ref": "and allow all civilizations to <unk> <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "我们要努力建设一个<unk>、清洁美丽的世界，坚持<unk><unk>共存的理念，共同营造和谐<unk>的",
+    "ref": "We must strive to build a clean and beautiful world with green mountains and clear waters, and adhere to the concept of <unk> coexistence between man and nature, and jointly create a harmonious and livable",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "人类家园",
+    "ref": "home for humanity",
+    "hyp": "<unk>",
+    "hyp_id": "256d2496c7d66443323f171ad0dcba9f17ee8925c10ac0016ce3f8f94d2300de"
+  },
+  {
+    "src": "建立<unk>、相互尊重、<unk><unk>的新型政党关系。",
+    "ref": "that seek common ground while <unk> differences, respect one another, and learn from each <unk> experiences on the basis of a new type of international relations.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "搭建多种形式、多种层次的国际政党交流合作网络，汇聚构建人类命运共同体的强大力量。",
+    "ref": "We should build a network of international political parties for exchange and cooperation in various forms and at various levels, and bring together powerful forces to build a community with a shared future for <unk>",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fae432fc0540cb03e745901f99b187ac73fda83b00053daa232b1dccba27fbc8"
+  },
+  {
+    "src": "我们要把自己的事情做好，这本身就是对构建人类命运共同体的贡献。",
+    "ref": "We need to accomplish our own tasks well, which itself is a contribution to building a community with a shared future for <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "我们也要通过推动中国发展给世界创造更多机遇。",
+    "ref": "We must also create more opportunities for the world by promoting China's development.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "我们不输入外国模式，也不输出中国模式，不会要求别国复制中国的做法。",
+    "ref": "We do not import foreign models nor export the Chinese model, and we will not ask other countries to copy Chinese practices.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "第一",
+    "ref": "First,",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "中国共产党将一如既往为世界和平<unk><unk>。",
+    "ref": "the Chinese Communist Party will make contributions to the peace and <unk> of the world.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "中国将高举和平、发展、合作、共赢的旗帜，<unk>走和平发展道路，积极推进全球伙伴关系建设。",
+    "ref": "China will hold high the banner of peace, development, cooperation, and mutual benefit. It will <unk> follow the path of peaceful development and actively promote the building of a global <unk>",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3be326ea4a47bb9e31dcde6a58f7e23c56c98771b099a5d40be8bbb10387d771"
+  },
+  {
+    "src": "主动参与国际热点难点问题的政治解决进程。",
+    "ref": "and actively participate in the process of political settlement of difficult <unk> international issues.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "中国无论发展到什么程度，都永远不<unk>，永远不搞扩张。",
+    "ref": "No matter to what degree China is developed, it will never become a hegemon and or engage in <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "到本世纪中叶中国将建成<unk>民主文明和谐美丽的社会主义现代化强国。",
+    "ref": "By the middle of this century, China will build a prosperous, strong, democratic, <unk> <unk> and beautiful socialist modern power.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "这将造福中国人民，也将造福世界各国人民。",
+    "ref": "This will benefit the Chinese people, and benefit all the peoples of the world as well.",
+    "hyp": "The the <unk>",
+    "hyp_id": "8441411f133ea8ee31c1ba4082330d7b5997be262f15566794eb89be9424b0cb"
+  },
+  {
+    "src": "我们倡议世界各国政党同我们一道，为世界创造更多合作机会，努力推动世界各国共同发展繁荣。",
+    "ref": "We call on all political parties in the world to work with us to create more opportunities for cooperation for the world, and strive to promote the common prosperity and development of all countries in the world.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b617677cd2d02f1e4bedc2dd37e1e3c421c0b9b4559954b5cbe1e859dab365b7"
+  },
+  {
+    "src": "中国共产党<unk>强调树立世界眼光，积极学习借鉴世界各国人民创造的文明成果，并结合中国实际加以运用。",
+    "ref": "The Chinese Communist Party has always stressed the importance of establishing a global perspective, actively learning from the achievements of civilization by the people of all countries in the world, and applying the same in the light of China's actual conditions.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "开展对话和交流合作，支持各国人民加强人文往来和民间友好。",
+    "ref": "and support the people of all countries in strengthening humanistic exchanges and <unk> <unk>",
+    "hyp": "The the <unk> <unk> <unk>",
+    "hyp_id": "0d6bfa19ff833f4d7764a2aa879a27dcff93d5a04d4fff6198cb5496d76cb18f"
+  },
+  {
+    "src": "将中国共产党与世界政党高层<unk><unk>，使之成为具有广泛代表性和国际影响力的",
+    "ref": "to institutionalize the high-level dialogue between the Chinese Communist Party and global political parties so that they can become a platform for high-level political dialogue with broad representation",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "高端政治对话平台",
+    "ref": "and international influence.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "中国古代思想家孔子",
+    "ref": "<unk> an ancient Chinese <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "说过",
+    "ref": "said that",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "<unk><unk>，<unk>，<unk>，<unk><unk>。",
+    "ref": "there are three friendships which are <unk> <unk> with the <unk> friendship with the <unk> and friendship with the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "中国共产党愿<unk>天下朋友。",
+    "ref": "The Chinese Communist Party hopes to make friends all over the world.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "长期以来，中国共产党同世界上<unk>个国家和地区的<unk>政党和政治组织保持着经常性联系。",
+    "ref": "For a long time, the CPC has maintained regular contacts with more than 400 political parties and political organizations in more than 160 countries and regions in the world.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "分享<unk>治国经验",
+    "ref": "share experiences in governing the party and state,",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "增进彼此战略性的",
+    "ref": "and enhance mutual strategic cooperation with other people in the world",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "中国共产党与世界政党高层<unk>以构建人类命运共同体、共同建设<unk>政党的责任为主题，来自<unk>多个国家的近<unk>政党和政治组织的领导人共<unk>中<unk>代表与会。",
+    "ref": "The CPC in Dialogue with World Political Parties High-level Meeting focuses on the responsibility of building a community of shared future for mankind and jointly building beautiful global political parties. Leaders of nearly 300 political parties and political organizations in over 120 countries, altogether more than 600 Chinese and foreign representatives, attended the meeting.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "缅甸<unk><unk>昂山素季，俄罗斯统一俄罗斯党总委员会<unk>副<unk><unk>尼亚克，美国共和党全国委员会<unk>安东尼<unk>。",
+    "ref": "State <unk> of Myanmar Aung San Suu Kyi, Deputy Secretary of the Russian <unk> General Committee <unk> <unk> of the U.S. National Republican Committee Anthony <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "<unk>副主席、政府副总理<unk>在<unk>上分别<unk>，<unk>习近平关于构建人类命运共同体",
+    "ref": "and Vice President of Ethiopian People's Revolutionary Democratic Front and Deputy Prime Minister of the government <unk> respectively addressed the <unk> session and spoke highly of Xi <unk> proposal to build a community with a shared future for mankind",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "彼此理解、<unk>、协调配合。",
+    "ref": "that concern both of our core interests and major concerns.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "各领域务实合作取得积极进展，两国关系保持健康稳定发展的良好势头。",
+    "ref": "The pragmatic cooperation in all fields has made positive progress, and the relations between our two countries have maintained a healthy momentum of sound and steady development.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "习近平指出，中国<unk>将一如既往地奉行同缅甸友好方针，从战略高度和长远角度",
+    "ref": "Xi Jinping pointed out that the Chinese party and government will, as always, adhere to the principle of friendship with Myanmar and view bilateral relations from",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "看待两国关系",
+    "ref": "a strategic and long-term perspective.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "我们<unk><unk>一道，牢牢把握中<unk>关系发展正确方向，落实好双方达成的各项共识。",
+    "ref": "We are willing to work with Myanmar to firmly grasp the correct direction for the development of bilateral relations and implement all <unk> reached by both sides,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fd7b550e14a55920d99121075c652f839df1b2c67f3482eae29d7abf9afe136b"
+  },
+  {
+    "src": "积极探讨建设中<unk>经济走廊等新的合作<unk>，推动中<unk>关系又好又快发展",
+    "ref": "actively explore new points of growth for cooperation in building the economic corridor between China and Myanmar, and promote the sound and rapid development of bilateral relations",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "习近平表示，今年十月召开的中共十九<unk>中国具有重大战略意义。",
+    "ref": "Xi Jinping said that the 19th National Congress held in October this year is of great strategic significance to China.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "大会总结了中共十八大以来的各项工作。",
+    "ref": "The Congress <unk> up all the work since the 18th CPC National Congress.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "并将构建人类命运共同体作为新时代中国外交努力方向。",
+    "ref": "It also regarded constructing a community with a shared future for mankind as a new direction of China's diplomatic efforts.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "<unk>关系对<unk>而言具有特殊重要意义，我们有历史悠久的民间友好<unk>。",
+    "ref": "<unk> relations have a special significance for Myanmar. We have a long history of <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "也有近年来<unk>、彼此尊重的密切合作，感谢习近平总书记对<unk>关系的高度重视，我们充分感受到了中国<unk>的真诚友好<unk>。",
+    "ref": "There has also been close cooperation in mutual trust and respect for one another in recent years. We thank General Secretary Xi Jinping for <unk> such great importance to the relations between the two countries. We fully feel the sincere friendship between the Chinese party and the government.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ce344ed2436a1aaaf99df1d056490e425e5fbdd9769216272d9ab3f65241941b"
+  },
+  {
+    "src": "习近平表示，洪森首相是中国<unk>的好朋友、<unk>、真朋友。",
+    "ref": "Xi Jinping said Prime Minister Hun Sen is a good friend, old friend, and true friend of the Chinese party and people.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "当前，中<unk>关系处于历史最好时期",
+    "ref": "At present, relations between China and Cambodia are at their best in history.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "双方政治互信不断增强，务实合作持续扩大，人文交流日益密切，为<unk>带来了实实在在的利益。",
+    "ref": "Mutual political trust between the two countries has been continually <unk> practical cooperation has continued to expand, and humanistic exchanges have become increasingly <unk> which has brought tangible benefits to both peoples.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "明年是中<unk><unk><unk>，希望双方以庆祝两国<unk><unk>为契机，推动两国关系深入发展、<unk><unk>。",
+    "ref": "Next year marks the 60th anniversary of the establishment of diplomatic relations between China and Cambodia, and we hope both sides will take this opportunity to celebrate the 60th anniversary of the establishment of diplomatic relations between the two countries to push forward the in-depth development of bilateral relations and long-term stability.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "<unk>始终给予中方坚定支持",
+    "ref": "Cambodia has always given China strong support.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "中方一贯支持柬埔寨走符合本国国情的发展道路， 支持<unk>",
+    "ref": "China has always supported Cambodia in taking a development path that matches its own national conditions and supported the Cambodian government's efforts",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "中方<unk><unk>一道，积极拓展两国战略合作，发挥两党<unk>对两国关系的政治引领作用。",
+    "ref": "China is ready to work with Cambodia to actively expand strategic cooperation between the two countries and fully <unk> the politically leading role of exchange between the two parties in relations between the two countries,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "拓展务实合作广度深度，加强防务及执法安全领域合作，促进人文交流，密切双方在联合国",
+    "ref": "expand the depth of pragmatic cooperation, strengthen cooperation in the areas of defense and law enforcement and security, promote <unk> exchanges, and work closely in cooperation and collaboration in multilateral mechanisms, such as the United Nations, East Asian cooperation, and <unk> cooperation",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fae432fc0540cb03e745901f99b187ac73fda83b00053daa232b1dccba27fbc8"
+  },
+  {
+    "src": "东亚合作、<unk>合作等多边机制中的协调和配合，携手打造牢不可破的中<unk>命运共同体。",
+    "ref": "to work together to build an <unk> community for a shared <unk> future.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "作出了中国特色社会主义进入新时代的重大政治判断 ，指出了社会<unk>的新变化，明确了",
+    "ref": "It made major political judgments on the socialism with Chinese characteristics entering into a new era, pointed out new changes in major social conflicts and defined",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "洪森对习近平得到<unk>人民拥护、再次当选<unk>总书记表示<unk>。",
+    "ref": "Hun Sen extended warm <unk> to Xi Jinping for winning the support of the entire party and the people throughout the country and for being <unk> as General Secretary of the CPC Central Committee.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "<unk>中方举办中国共产党与世界政党高层<unk>",
+    "ref": "He spoke highly of China holding this grand meeting of global political parties, a dialogue meeting between the Chinese Communist Party",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "他表示，中方是<unk>高度信任和充分信赖的亲密伙伴，<unk>对<unk>中关系感到满意。",
+    "ref": "He said that China is a close partner of Cambodia with a high degree of confidence and full trust. Cambodia is satisfied with the relations between Cambodia and China.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fd7b550e14a55920d99121075c652f839df1b2c67f3482eae29d7abf9afe136b"
+  },
+  {
+    "src": "不断提升自身执政能力和水平",
+    "ref": "and continue to improve our own ability and level of governance",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "丁<unk>、<unk>等参加上述会见。",
+    "ref": "<unk> <unk> and <unk> <unk> attended the meeting.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "国务院总理李克强当地时间十一月<unk>号 ，在莫斯科克里姆林宫会见俄罗斯总统普京。",
+    "ref": "On the <unk> of November local time, Premier Li Keqiang of the State Council met with Russian President Vladimir Putin in the Kremlin in Moscow.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "李克强首先<unk>了习近平主席对普京总统的诚挚<unk>和良好<unk>。",
+    "ref": "Li Keqiang first conveyed President Xi <unk> sincere <unk> and good wishes to President Putin.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "李克强表示，中国共产党第十九次全国代表大会闭幕后不久，习近平主席同普京总统在越南<unk>成功会晤。",
+    "ref": "Li Keqiang said that President Xi Jinping met with Putin in a successful meeting in <unk> <unk> Vietnam, shortly after the closing ceremony of the 19th CCP National Congress.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "李克强指出，当前两国经济合作正迈出坚实步伐，传统领域合作持续推进，新领域合作也取得进展。",
+    "ref": "Li Keqiang pointed out that at present, the economic cooperation between the two countries is taking solid steps. Cooperation in traditional areas has been continuously pushed forward and cooperation in new areas also made progress.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b617677cd2d02f1e4bedc2dd37e1e3c421c0b9b4559954b5cbe1e859dab365b7"
+  },
+  {
+    "src": "中方愿将一带一路倡议同欧亚经济联盟加强对接。",
+    "ref": "China hopes to reinforce the connection between the Belt and Road Initiative and the Eurasian Economic Union.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "李克强强调，中方<unk><unk>加强在国际事务中的沟通协调。",
+    "ref": "Li Keqiang stressed that China is ready to step up its communication and coordination with Russia in international affairs.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "密切在上海合作组织等多边框架内的合作， 共同助力地区合作<unk>",
+    "ref": "We will work closely for cooperation within multilateral frameworks such as the Shanghai Cooperation Organization to help seeking advancement while stabilizing cooperation in the region",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "为世界的和平发展注入建设性力量",
+    "ref": "and work to inject constructive force into the peaceful development of the world.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "普京欢迎李克强来俄出席上海合作组织成员国总理会议。",
+    "ref": "Putin welcomed Li Keqiang to Russia to attend the Prime <unk> Meeting of SCO Member <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "他表示",
+    "ref": "He expressed that",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "当前<unk>贸易增长势头良好，能源、交通基础设施、农业、地方等领域合作积极推进。",
+    "ref": "at present, the trade between Russia and China has enjoyed good growth momentum and that cooperation in energy, transport infrastructure, agriculture and local areas has been actively <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "欧亚经济联盟和一带一路倡议具有互补性。",
+    "ref": "The Eurasian Economic Union and the Belt and Road Initiative are <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "希望双方对接好发展战略，更好实现互利双赢。",
+    "ref": "We hope that both sides will lead well in development strategy and better realize <unk> mutually beneficial cooperation.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "双方还就共同关心的国际和地区问题交换看法。",
+    "ref": "Both sides also exchanged views on international and regional issues of common concern.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "各位观众这里是俄罗斯索契国际机场， 应俄罗斯总理梅德韦杰夫邀请当地时间三十号<unk>国务院总理李克强抵达这里。",
+    "ref": "<unk> this is Russia's Sochi International <unk> At the invitation of Russian Prime Minister <unk> Premier Li Keqiang arrived here on the <unk> of the <unk> local time,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "dbb44557b4f2d309d53cee1443df7bab9e31017fb3ed40e5bbb1cf895b994ef2"
+  },
+  {
+    "src": "出席上海合作组织成员国总理<unk>会议， 俄罗斯政府高级官员和中国驻俄罗斯大使<unk>等在机场迎接。",
+    "ref": "to attend the <unk> Prime <unk> Meeting of SCO Member <unk> Senior officials of the Russian government and the Chinese ambassador in Russia, Li <unk> welcomed him at the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "李克强表示，上海合作组织成立<unk>来",
+    "ref": "Li Keqiang said that since its establishment 16 years ago, the SCO",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "已经成为维护地区安全稳定、促进共同发展繁荣的重要平台。",
+    "ref": "has become an important platform for maintaining regional security and stability and promoting common development and prosperity.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "我期待同各方齐聚黑海<unk>索契，在上合组织首次<unk>，共同梳理成果，<unk>。",
+    "ref": "I look forward to meeting with all parties in <unk> the Pearl of the Black Sea, to sort out the results and tap potential after the first SCO enlargement.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "在新的起点上",
+    "ref": "At this new starting point,",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "当地时间十一月三十号下午，国务院总理李克强在索契<unk>饭店会见塔吉克斯坦总理拉<unk><unk>，巴基斯坦总理阿巴西，乌兹别克斯坦总理阿里<unk>。",
+    "ref": "On the afternoon of November <unk> local time, Premier Li Keqiang met with Tajikistan Prime Minister <unk> Pakistani Prime Minister <unk> and <unk> Prime Minister <unk> in their hotel in <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "拉<unk><unk>表示，欢迎中方继续参与塔电力开发、天然气管道、<unk>等重要项目。",
+    "ref": "<unk> said that China is welcome to continue to participate in power development, natural gas pipelines, transport facilities, and other important projects of <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "<unk>为中国企业提供<unk>支持。",
+    "ref": "Tajikistan hopes to provide preferential policy support for Chinese enterprises.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "在会见阿巴西时李克强表示 ，中方愿<unk>高度的政治诚意，<unk>探讨自贸区建设",
+    "ref": "When meeting with <unk> Li Keqiang said that China <unk> uphold its high level of political <unk> explore the construction of a free trade area with Pakistan,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "促进双方贸易平衡发展， 推动两国企业加强合作。",
+    "ref": "promote the balanced development of trade between the two countries, and promote cooperation between the two countries.",
+    "hyp": "The the <unk> <unk> <unk>",
+    "hyp_id": "0d6bfa19ff833f4d7764a2aa879a27dcff93d5a04d4fff6198cb5496d76cb18f"
+  },
+  {
+    "src": "感谢<unk>对中国在巴企业和公民提供的安全保障",
+    "ref": "We thank Pakistan for its security guarantee provided to Chinese enterprises and citizens in Pakistan.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "中方<unk><unk>继续开展安全防务合作， 为地区和平稳定做出贡献。",
+    "ref": "China is ready to continue its cooperation in security and defense with Pakistan and make contributions to regional peace and stability.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "李克强指出，中方欢迎巴基斯坦首次作为上海合作组织正式成员参加总理会， 愿继续<unk>密切在上合组织等多边机构",
+    "ref": "Li Keqiang pointed out that China welcomes Pakistan as an official member of the Shanghai Cooperation Organization for its first time to attend the prime ministerial meeting and is willing to continue close communication and coordination with Pakistan in the multilateral agencies and regional affairs",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "和地区事务中的沟通协调",
+    "ref": "such as the <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "阿巴西表示，当前<unk>经济走廊建设进展顺利。",
+    "ref": "<unk> said that the at present, the economic corridor construction in Pakistan and China is proceeding <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "<unk>将继续全力推进走廊建设",
+    "ref": "Pakistan will continue to make every effort to promote corridor construction",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "在会见阿里<unk>李克强表示，习近平主席同今年五月访华的米尔<unk><unk>总统举行会晤。",
+    "ref": "When meeting with <unk> Li Keqiang said President Xi Jinping held a meeting with President <unk> who has visited China in May of this year.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "<unk><unk>中方共同努力，加强<unk>、水电等领域合作，推动两国关系与合作全面发展。",
+    "ref": "<unk> is ready to make joint efforts with China to strengthen cooperation in transportation facilities, hydropower, and other fields so as to promote the <unk> development of bilateral relations and cooperation.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "<unk>愿加强两国在上合组织框架内合作。",
+    "ref": "<unk> hopes to strengthen cooperation between the two countries within the SCO framework.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "<unk>的决定， 自公布<unk>施行。",
+    "ref": "The decisions on the <unk> <unk> will be implemented from the date of its <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "按照<unk>国务院的部署，<unk><unk>启动<unk><unk>增值税试点， <unk>六年五月<unk>全面<unk>。",
+    "ref": "In accordance with the plan of the Central Party Committee and the State Council, a pilot project to replace the business tax with a value-added tax was launched in 2012 and was fully launched from May 1, 2016.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "25f8dc633d2edc9e30bb06d4697b8cfb750aa46a831dc00f355763be8d5fd261"
+  },
+  {
+    "src": "全面<unk>营<unk>试点后",
+    "ref": "After launching the <unk> to replace the business tax with a value-added tax,",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "原来施行<unk>的服务业领域已统一征收增值税，实质上全面取消了实施<unk>的<unk> 。",
+    "ref": "the service fields previously having a business tax have uniformly levied value-added taxes. The business tax that has been implemented for more than 60 years has been virtually eliminated,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "并代表<unk>致<unk>",
+    "ref": "and delivered a <unk> speech on behalf of the CPC Central Committee.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "<unk>指出， 中共十八大以来，<unk>事业取得了历史性成就、 发生了历史性变革。",
+    "ref": "The <unk> speech pointed out that since the 18th CPC National Congress, the party and the country have made historic achievements, and historic changes have taken place.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "统一战线和<unk>作出了重要贡献。",
+    "ref": "The united front and multi-party cooperation have made important contributions.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "五年来，<unk><unk>为执政党助力、为国家<unk>、为人民服务的使命担当",
+    "ref": "Over the past five years, the China Association <unk> Democracy has upheld the principle of providing assistance to the ruling party, fulfilling its duties for the country, and serving the people,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "广泛深入调研，积极<unk>",
+    "ref": "conduct extensive and in-depth investigations and studies, actively offer suggestions and opinions,",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "为实施<unk>战略、人才强国战略、创新驱动发展战略等作出新贡献。",
+    "ref": "and make new contributions to implementation of the strategy of <unk> the country through science and education, the strategy of strengthening the country by employing qualified personnel and the strategy of innovation-driven development,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "准确把握建设中国特色社会主义<unk>的要求，切实履行好<unk>、<unk>、参加中国共产党领导的<unk>职能。",
+    "ref": "accurately grasp the requirements of building socialist participating parties with Chinese characteristics, <unk> perform the functions of participating in politics and discussing politics, <unk> democratically and participating in the political consultation under the leadership of the Communist Party of China.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "推进自身建设<unk><unk>",
+    "ref": "and promote a new level of <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk><unk>、<unk>主席<unk>代表各<unk>中央、<unk>致<unk>。",
+    "ref": "Zhang <unk> Vice President of the <unk> Standing Committee and President of the <unk> delivered a <unk> message on behalf of the Central Committee of the Democratic Parties and the <unk> Federation of Industry and <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "大会<unk><unk><unk>代表<unk><unk>中央委员会作工作报告。",
+    "ref": "<unk> <unk> Executive President of the <unk> of the General Assembly, delivered a working report on behalf of the 13th Central Committee of the People's Republic of China.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "<unk>、<unk>、<unk>、<unk>",
+    "ref": "Liu <unk> You <unk> <unk> <unk> Zhang <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "审议通过《<unk>章程（修正案）》， 选举<unk><unk>中央委员会。",
+    "ref": "and the review has approved the <unk> <unk> of the China Association <unk> Democracy, and will select the <unk> Central Committee of the China Association <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "<unk>明天出版的人民日报将发表《朝着建设网络强国目标<unk>，习近平总书记引领推动网络强国战略<unk>》。",
+    "ref": "In news delivered to this <unk> in tomorrow People's Daily, the article <unk> <unk> Efforts <unk> the Goal of Building a <unk> the Strategic Review On General Secretary Xi <unk> Leadership on <unk> a <unk> will be <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "和<unk><unk>的五年大型<unk>",
+    "ref": "and the <unk> <unk> Five-Year Major <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "我们将中国视为世界未来的发展方向，特别是<unk>并不是一种教条它是一种哲学，必须适应国家本身的发展。",
+    "ref": "We regard China as the world's future development direction. In particular, <unk> is not a <unk> It is a philosophy, and must be adapted to the development of the country itself.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "这就是中国共产党正在做的",
+    "ref": "This is what the Chinese Communist Party is doing.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "<unk><unk>全国代表大会十二月<unk>在<unk>闭幕，大会<unk>各项议程，表决通过了",
+    "ref": "The <unk> National Congress of Chinese <unk> and <unk> Democratic Party was closed in Beijing on December 1. The conference successfully completed its entire agenda, and voted upon and approved",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "中国<unk>民主党<unk>全国代表大会决议， 中国<unk>民主党<unk>全国代表大会， 关于<unk>中央委员会报告的决议。",
+    "ref": "the Resolution of the <unk> National Congress of the Chinese <unk> and <unk> Democratic Party, the <unk> National Congress of the Chinese <unk> and <unk> Democratic Party, Resolution on the Report of the 15th Central Committee.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "全面加强自身建设， 坚决<unk><unk><unk>各项工作部署。",
+    "ref": "comprehensively strengthen <unk> and resolutely implement the work arrangements of the <unk> Chinese <unk> and <unk> Democratic Party, and",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "以崭新的<unk>和<unk>的奋斗姿态",
+    "ref": "with a new spirit and <unk> attitude",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk><unk>新时代的灿烂篇章",
+    "ref": "write a brilliant chapter worthy of a new era.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "审议通过<unk>章程修正案并决定提交<unk><unk>全国代表大会审议。",
+    "ref": "The review has approved the amendment to the constitution of the <unk> San Society and decided to submit it to the 11th National Congress of <unk> San Society for <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "已经协助<unk>游客安全回国",
+    "ref": "to help more than 10,000 tourists return home safely.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "截至目前，<unk>机场仍处于临时开放状态。",
+    "ref": "At present, the airport in <unk> is still temporarily open.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "由于<unk>改变，<unk><unk><unk>的<unk> 开始<unk>扩散",
+    "ref": "Thanks to changing wind direction, <unk> <unk> from the <unk> <unk> began to spread <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "影响到<unk>机场及<unk>",
+    "ref": "affecting the airport in <unk> and air <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "为了保障安全，前往协助<unk>游客回国的各航空公司机组对<unk>影响",
+    "ref": "To ensure safety, <unk> flight <unk> <unk> stranded tourists to return home have made plans for the impact of",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "由于<unk><unk>还在持续<unk>，当地机场还可能随时关闭， 航空公司提醒旅客尽快回国。",
+    "ref": "As the <unk> <unk> is still <unk> the local airport may also be closed at any time, and the <unk> reminds passengers to return as soon as possible.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "这座<unk><unk>剧烈<unk>",
+    "ref": "The <unk> erupted violently in 1963,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "曾造成<unk>人死亡",
+    "ref": "killing more than a thousand people.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "我们无法预测此次<unk>是否会比<unk>的那次规模更大。",
+    "ref": "We cannot predict whether this eruption will be larger than the 1963 <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "但根据我们的评估，出现大规模<unk>的可能性依然很高。",
+    "ref": "However, according to our assessment, there is still a high possibility of a massive <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "从<unk>号晚上开始，已经有<unk>架<unk>航空公司<unk>，协助<unk>中国游客回国。",
+    "ref": "Since the evening of the <unk> there have been <unk> flights of Chinese and foreign airlines to help Chinese tourists in <unk> to return home.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "终于回来，下了飞机，到了自己的国家的心情也好",
+    "ref": "Finally, we came back and got off the <unk> Our mood is better when returning to our own country.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d4b20474cf855990d95dfdce2766a2d2b2203875453a335f3fd728582961a8f3"
+  },
+  {
+    "src": "据了解<unk><unk>的<unk>中，中国游客最多，约占四分之一。",
+    "ref": "It is said that among all foreign tourists stranded in <unk> China has the largest number, accounting for about a quarter.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "目前大部分中国游客都已经回国。",
+    "ref": "At present, most Chinese tourists have already returned to China.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "<unk>，还将有十<unk>陆续前往协助<unk>游客回国。",
+    "ref": "<unk> there will be 10 flights to help stranded tourists returning home.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "下面请看<unk><unk>。",
+    "ref": "<unk> <unk> news <unk> are next.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "今天，中石油新疆油田公司正式发布， 在<unk><unk><unk><unk>发现世界储量最大的<unk>油田，已发现的<unk>石油地质储量超过<unk>亿吨 。",
+    "ref": "Today, the Xinjiang <unk> Company of the China National Petroleum Corporation officially announced that they have discovered the world's largest reserves of <unk> oil fields in the center of the <unk> Area in the <unk> <unk> The tertiary petroleum reserves discovered exceed 1.2 billion tons.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "de809682e416963cef5b83adfffeed81fb5fa27d1a7317d2ac1e7e1a4dbc958a"
+  },
+  {
+    "src": "其中<unk>五点二亿吨原油储量",
+    "ref": "Among which, <unk> million tons of reserves are proved to be crude oil.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "分别同步与<unk>和反对派代表团进行了会谈",
+    "ref": "in parallel <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "而本轮和谈的结束日期将推迟至十二月<unk>。",
+    "ref": "The end date of this peace talks will be postponed to December <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "本轮和谈是极端组织在叙利亚境内主要力量被<unk>的<unk>召开的。",
+    "ref": "This round of peace talk is held under new conditions, given that extremist groups have been <unk> from their main forces in Syria.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "巴基斯坦<unk>城市<unk>的农业培训学院今天遭袭，多名袭击者伪装后<unk>学院，并与赶到的巴基斯坦安全人员发生交火。",
+    "ref": "Today, an agricultural training institute in <unk> a city in <unk> Pakistan, was <unk> Several attackers <unk> themselves and entered the institute and exchanged fire with Pakistani security personnel when they <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "四名袭击者被<unk>。袭击事件导致九名学生身亡，数十人受伤，<unk>已被送往附近医院治疗。",
+    "ref": "Four attackers were killed. The attack resulted in the death of nine students and the <unk> of dozens of others. The injured were sent to a nearby hospital for treatment.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "巴基斯坦塔利班已经宣称对袭击负责。",
+    "ref": "The Taliban in Pakistan has claimed the responsibility for the attack.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "伊朗东南部地区今天发生<unk><unk>一级地震，已造成<unk>人受伤。",
+    "ref": "An earthquake measuring <unk> on the <unk> scale hit southeast Iran today, injuring more than 30 people.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "地震震中位于<unk>省境内，<unk>深度在<unk>左右，地震还造成<unk>间房屋受损。",
+    "ref": "The epicenter of the earthquake was in the province of <unk> with a focal depth of about 10 <unk> The earthquake also damaged more than 30 <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "他希望大幅提高非能源领域收入在俄经济中的比重，以减小<unk>波动对俄经济的影响。",
+    "ref": "He hopes to substantially increase the share of <unk> income in the Russian economy to reduce the impact of fluctuations in the oil market on the economy of Russia.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "<unk>四年以来，受西方对俄制裁和国际油价大幅波动影响，俄经济面临较大下行压力。",
+    "ref": "Since 2014, due to the sanctions imposed by the West on Russia and drastic fluctuations in the international oil price, the Russian economy has been under great downward pressure.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "fd7b550e14a55920d99121075c652f839df1b2c67f3482eae29d7abf9afe136b"
+  },
+  {
+    "src": "<unk>五年和<unk>六年",
+    "ref": "In both 2015 and 2016,",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "为了找到<unk><unk>，救援时间已经延长了两倍多。",
+    "ref": "The rescue timetable has been extended more than twice to locate <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "有专家指出 由于<unk>时间已经超过了潜艇氧气理论储备时间",
+    "ref": "Some experts pointed out that because the time has exceeded the theoretical reserves of oxygen in the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "加上<unk>附近海域被检测到有不明原因的爆炸发生，这些<unk>幸存的可能性非常低。",
+    "ref": "and <unk> explosions have been detected in the <unk> of the watershed, these <unk> members are very unlikely to have <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "日本<unk><unk>市一个<unk>今天发生爆炸事件",
+    "ref": "Today, an explosion in a chemical plant occurred in <unk> City, <unk> <unk> Japan,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "已导致一人死亡，<unk>人受伤，其中三人<unk>严重。",
+    "ref": "killed one person and injured 11, of which three were seriously <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "a813d0d1a0ab161d8d6770f1566e91361ba70a619d85a6c8b26969b49ec88346"
+  },
+  {
+    "src": "由于爆炸以及之后的<unk>引发的<unk>中可能含有<unk>，当地政府已向周边居民下达避难指示。",
+    "ref": "Due to possible harmful substances in the black smoke caused by the explosion and subsequent fires, the local government has issued evacuation instructions to surrounding residents.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "各位观众晚上好。",
+    "ref": "Good evening, <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "晚上好。",
+    "ref": "Good <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "今天是十二月<unk>星期六<unk>十月<unk>，欢迎收看新闻<unk>。",
+    "ref": "Today is <unk> December 2, also is October 15 of the <unk> <unk> Welcome to <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "今天节目的主要内容有。",
+    "ref": "In <unk> program, we cover",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "习近平总书记在中国共产党与世界政党高层<unk><unk>上的主旨讲话赢得热烈反响。",
+    "ref": "General Secretary Xi Jinping’s opening speech which <unk> a high-level <unk> between the CPC and other world political parties.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "b36ec943c38438b387e02869351e839b6dd5d744178d6240ad100d8abb227fea"
+  },
+  {
+    "src": "李克强出席上海合作组织成员国政府首脑总理理事会<unk>会议",
+    "ref": "Li Keqiang attended the <unk> session of the Meeting of Prime Ministers and <unk> of Government for Member States of the Shanghai Cooperation Organization.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "李克强分别会见俄罗斯总理、吉尔吉斯斯坦总理",
+    "ref": "Li Keqiang respectively met with the Russian Prime Minister, <unk> Prime Minister,",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "白俄罗斯总理、哈萨克斯坦总理和阿富汗首席执行官",
+    "ref": "<unk> Prime Minister, Prime Minister of Kazakhstan and Chief Executive <unk> of Afghanistan,",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "<unk>集体会见出席中国共产党与世界政党高层<unk>的部分",
+    "ref": "Zhang <unk> met collectively with some foreign delegates who attended the high-level <unk> between the Chinese Communist Party and world political parties",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "<unk>代表<unk>分别会见日本和美国客人。",
+    "ref": "and met with guests from Japan and the United States respectively.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "<unk><unk>全国代表大会开幕，<unk>代表<unk>致<unk>。",
+    "ref": "The 15th National Congress of the China Party for Public Interest was <unk> Wang <unk> on behalf of the CPC Central Committee, delivered a <unk> message.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "<unk>集体会见出席中国共产党与世界政党高层<unk>的",
+    "ref": "Wang <unk> met collectively with some foreign delegates who attended the high-level <unk> between the Chinese Communist Party",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "前总统国家安全事务助理弗林承认曾经向联邦调查局<unk>。",
+    "ref": "<unk> <unk> to the former President for National Security Affairs, admitted that he gave a false testimony to the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "0cc7a442cc7ade41038f4842d5871c5688442a0e812feeb41255d531bbed2a5b"
+  },
+  {
+    "src": "接下来请看详细报道。",
+    "ref": "<unk> reports are next.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "十二月<unk>，<unk>总书记、国家主席习近平在中国共产党与世界政党高层<unk><unk>上发表主旨讲话指出",
+    "ref": "On December 1, the General Secretary of the Central Committee of the Communist Party of China and President Xi Jinping made a keynote speech at the opening ceremony <unk> the high-level <unk> between the Chinese Communist Party and world political parties and he pointed out that",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "世界各国人民前途命运越来越紧密地联系在一起。",
+    "ref": "The future and the <unk> of the citizens of every country in the world are increasingly <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "世界各国人民应该<unk><unk>理念，彼此理解。",
+    "ref": "There should be a unified idea throughout the globe where all people of the world can can understand each other.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "出席<unk>的外国政党代表高度认同习近平关于推动构建人类命运共同体，携手建设<unk>的主张。",
+    "ref": "<unk> representatives of foreign parties agreed with Xi Jinping’s proposal to promote building a community who believe in a shared future for mankind who can build a better world together.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "认为",
+    "ref": "They believe that",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "这展现出中国共产党建设<unk>的决心与担当。",
+    "ref": "this shows the determination and responsibility of the Chinese Communist Party in building a better world.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "努力把我们生于斯、长于斯的这个星球建成一个<unk>的大家庭，把世界各国人民对美好生活的向往变成现实。",
+    "ref": "We should strive to build this planet where we were born and grow into a harmonious family where our shared yearning for a good life for all the people of the world can be turned into a reality.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "<unk>近<unk>政党和政治组织领导人，习近平全面<unk>人类命运共同体的深刻内涵。",
+    "ref": "Facing nearly 300 leaders from political parties and political organizations, Xi Jinping comprehensively and systematically <unk> the profound idea of a community that shares a positive future for <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "dbb44557b4f2d309d53cee1443df7bab9e31017fb3ed40e5bbb1cf895b994ef2"
+  },
+  {
+    "src": "习近平指出，世界格局在变，发展格局在变。",
+    "ref": "Xi Jinping pointed out that the world is changing and the pattern of development is changing.",
+    "hyp": "The the <unk>",
+    "hyp_id": "8441411f133ea8ee31c1ba4082330d7b5997be262f15566794eb89be9424b0cb"
+  },
+  {
+    "src": "各个政党都要<unk>发展潮流，把自身发展同国家、民族、人类的发展",
+    "ref": "All political parties must conform to the trend of the times and closely integrate their own development with the development of the country, the nation",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "一如既往为世界共同发展<unk>，一如既往为世界文明交流<unk><unk>。",
+    "ref": "There is also the shared aim in making a contribution toward the common development of the world and the exchange and mutual recognition of world <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "f0a459997e7394f5416bd6e5745ae24135a220048f0b3dd017dbf8c553b7bd48"
+  },
+  {
+    "src": "习近平的讲话明确宣示了构建人类命运共同体的中国承诺，彰显了中国共产党作为世界上最大政党的天下<unk>与担当。",
+    "ref": "Xi Jinping’s speech clearly proclaimed China’s commitment to building a community of a shared future for mankind and, as the largest political party in the world, demonstrated the world’s unified feelings and responsibilities.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "李克强在讲话时表示，今年六月<unk>峰会上，习近平主席同各方就巩固团结互信、加强安全合作、对接发展战略、深化人文交流等达成重要共识。",
+    "ref": "In his speech, Li Keqiang said that at the <unk> Summit in June this year, President Xi Jinping reached an important consensus with all parties on consolidating mutual trust, strengthening cooperation for security, connecting development strategies and deepening exchanges for the <unk> of humanity.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "峰会后，中方接任轮值主席国。",
+    "ref": "After the summit, China took over the rotating presidency.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "在各方积极支持下，推动各领域合作<unk>。",
+    "ref": "With active support from all parties, it is necessary to promote the steady development of cooperation in various fields.",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "李克强就打造地区国家命运共同体提出以下建议。",
+    "ref": "Li Keqiang put forward the following suggestions on how to create a regional and national community of a shared future for <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "第一，塑造安全稳定的地区环境。",
+    "ref": "First, a safe and stable regional environment must be created.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "第二，加快发展战略对接合作。",
+    "ref": "Second, the development for strategic <unk> and cooperation must be <unk>",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "发展是应对地区冲突和地缘政治不稳定因素的<unk>。",
+    "ref": "Development is an effective way to deal with the factors of regional conflicts and geopolitical instability.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "第三，提升贸易自由化<unk>水平",
+    "ref": "Third, the level of trade liberalization and facilitation is to be enhanced.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "稳步推进贸易自由化<unk>，加快<unk>《上合组织贸易<unk>协定》。",
+    "ref": "We must steadily promote trade liberalization and facilitation and accelerate the signing of the SCO Agreement on Trade <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "第四，构建快捷便利的联通格局。",
+    "ref": "Fourth, a fast and convenient connected pattern must be built.",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "第五，推进产能与创新合作深入发展。",
+    "ref": "Fifth, the in-depth development on capacity and innovation cooperation is to be <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "第六，<unk>人文交流合作纽带。",
+    "ref": "Sixth, ties of cultural exchanges and cooperation are to be <unk>",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "李克强强调，<unk>，中国经济已转向高质量发展阶段，将为中国与上合组织国家的合作带来<unk>。",
+    "ref": "Li Keqiang stressed that since the beginning of this year, China’s economy has shifted to a phase of high-quality development, which will bring new opportunities for the cooperation between China and the SCO countries.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "dbb44557b4f2d309d53cee1443df7bab9e31017fb3ed40e5bbb1cf895b994ef2"
+  },
+  {
+    "src": "中国将把自身发展同地区国家发展对接起来，把自身安全同地区国家安全融合起来。",
+    "ref": "China will put its own development in connection with the development of the countries in the region and integrate its own security with the security of the countries in the region.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "74fa25b2979723355e261873f16326ac8d4f122315eac86bb86900531e7f2930"
+  },
+  {
+    "src": "当地时间十二月<unk>，国务院总理李克强在索契分别会见俄罗斯总理梅德韦杰夫、吉尔吉斯斯坦总理<unk>。",
+    "ref": "On December 1 local time, Premier Li Keqiang met with Russian Prime Minister <unk> Prime Minister of <unk> <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6d74f91ea4eaf1633ed94b2e964cbacc309ea35a9540f29efeffc7d1b4e91432"
+  },
+  {
+    "src": "继续发挥上合组织的平台作用，为共同构建地区命运共同体、促进世界的开放包容发展与持久和平贡献智慧和力量。",
+    "ref": "continue to show their roles for the <unk> contribute to provide wisdom and strength for building a community of a shared future for mankind in the region and promote an open and inclusive development for lasting peace throughout the world.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "4f4763cdfd196d7cb01c2467502144979a9150c90c471a17f2b55362e288a183"
+  },
+  {
+    "src": "在会见<unk>时，李克强表示，希望双方继续遵循市场化原则，加快推进有关跨境交通基础设施建设合作。",
+    "ref": "When meeting with <unk> Li Keqiang said he hopes both sides will continue to follow the principle of the market and speed up cooperation on cross-border transport infrastructure and construction,",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3be326ea4a47bb9e31dcde6a58f7e23c56c98771b099a5d40be8bbb10387d771"
+  },
+  {
+    "src": "在会见<unk><unk><unk>，李克强表示，希望<unk>双方进一步加强发展战略对接，发挥互补优势、挖掘<unk>、投资合作潜力。",
+    "ref": "During his meeting with <unk> Li Keqiang said he hopes both China and Belarus will further strengthen the <unk> of development strategies, give full play to their complementary advantages and tap the potential for economic, trade and investment cooperation.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "<unk><unk>夫表示，<unk>将参与明年在华举办的国际进口博览会，希望将<unk>八年确定为<unk>旅游年，扩大旅游合作和青少年交流。",
+    "ref": "<unk> said that Belarus will participate in the International Import Expo which will be held in China next year, and hopes to set 2018 as the year of a rise in tourism between China and Belarus and to expand tourism cooperation and the exchange of tourism in young people.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "45b14d9d08e30f975510f985088c25fe99fdfb1448f71819dd8ab0436c44f6bd"
+  },
+  {
+    "src": "在会见萨<unk><unk>，李克强表示，希望<unk>双方继续共同努力。",
+    "ref": "During his meeting with <unk> Li Keqiang said he hopes both China and Kazakhstan will continue to work together",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "落实业已达成的各项共识",
+    "ref": "to implement the various <unk> they had reached",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "并加强对有关成果和经验的梳理，推动双方务实合作，特别是产能合作以更大步伐向前迈进。",
+    "ref": "and strengthen its discussion of relevant achievements and experiences, push forward pragmatic cooperation between both sides, especially the cooperation in <unk> to make greater strides forward.",
+    "hyp": "The the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6397415680fd8db764248914b7af61012c426869a93b497dd483b65f63277856"
+  },
+  {
+    "src": "萨<unk><unk>表示，<unk>积极落实好两国领导人达成的重要共识，为进一步推进产能合作创造<unk>。",
+    "ref": "<unk> said Kazakhstan is willing to actively implement the important consensus reached by the leaders of the two countries and create favorable conditions for further promoting cooperation in maintaining capacity.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "aa4809cfe1437547a6119da0ae8e67cb5d1ed43ae625938c19d9dff018535ae5"
+  },
+  {
+    "src": "在会见阿卜杜拉时，李克强表示，中方支持阿<unk>政府维护国家安全稳定的努力。",
+    "ref": "During his meeting with <unk> Li Keqiang said China supports Afghanistan in its governmental efforts to safeguard national security and stability.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5c63528d1f0671d2afc81c89c30bd6090a4c97357833742df3099b2c5c3c739e"
+  },
+  {
+    "src": "共同努力致力于稳定安全的地区环境建设，早日推动实现区域<unk>",
+    "ref": "to work hard together to establish a stable and safe regional environment and promote long-term peace and stability in the region at an early date.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "阿卜杜拉表示",
+    "ref": "Abdullah said that",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "李克强当天下午<unk>杰夫共同参观了索契<unk><unk>公园的<unk><unk>。",
+    "ref": "On the afternoon of the same day, Li Keqiang and Medvedev jointly visited the <unk> Olympic Games <unk> in the Olympic Park in <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "d696ab89b76a92afafc03a698c262d57e695d25e7d16c5220335d87d1e3de428"
+  },
+  {
+    "src": "李克强表示，现在中国正在全力<unk><unk><unk>北京<unk>。",
+    "ref": "Li Keqiang said that China is now fully preparing for the <unk> Beijing <unk> Olympic <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "李克强总理离开索契回国，俄罗斯政府高级官员到机场<unk>。",
+    "ref": "Premier Li Keqiang left Sochi and senior officials from the Russian government went to the airport to say their <unk>",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "十二月<unk><unk>，国务院总理李克强在成功出席于匈牙利布达佩斯举行的<unk>中国中东欧国家领导人会晤",
+    "ref": "On the morning of December 2, the Premier of the State Council Li Keqiang successfully attended the Sixth Summit of <unk> of Government from China and Central and Eastern European Countries held in <unk> Hungary,",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "3d6bf5ad954db2b3dec568251e7ed5243cd7207d66f86e95e90a7f3494120550"
+  },
+  {
+    "src": "<unk>会议后，<unk>回到北京。",
+    "ref": "He took the special plane back to Beijing.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "部分<unk>议会<unk>的外国政党领导人",
+    "ref": "between the Chinese Communist Party and world political parties in the Great Hall of the <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk>",
+    "hyp_id": "791990d55936b28fe38495904a55763b109305eebc82a6b3ea8984c0c78faeb4"
+  },
+  {
+    "src": "<unk>说，习近平总书记在高层对话会上全面阐述了中国共产党",
+    "ref": "Zhang <unk> said that at the meeting where the high-level <unk> was held, General Secretary Xi Jinping fully <unk> the concept and proposition of the Chinese Communist Party",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "6a4a117cedd1c6bf883cad747ffbe572fe60bd6510007f3e2ced9856257a582a"
+  },
+  {
+    "src": "推动构建人类命运共同体的理念和主张，表明了中国共产党把为人类作出新的更大贡献作为自己的使命。",
+    "ref": "to promote the construction of a community of a shared vision for mankind and indicated that the Chinese Communist Party has made it its mission to make new and greater contributions to <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  },
+  {
+    "src": "中共<unk>、国务院副总理<unk><unk>下午在<unk><unk>分别会见了<unk><unk>",
+    "ref": "On the afternoon of the <unk> Wang <unk> member of the Standing Committee of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council, met respectively with the delegation of <unk> <unk> Party leader",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "5dde4006e07dd1683770ce8027f91606aebf114a03129fd80b14663192ef43f7"
+  },
+  {
+    "src": "习近平主席前不久会见安倍首相时指出，改善中日关系关键在于互信。",
+    "ref": "When President Xi Jinping met with Prime Minister Abe a short while before, he pointed out that the key to improving Sino-Japanese relations lies in mutual trust.",
+    "hyp": "The <unk> <unk> <unk>",
+    "hyp_id": "2b1b873015d9f4cc26ad25b27a2b6d1afe7f85e1844771552ef2fd1d5c27c9a0"
+  },
+  {
+    "src": "双方要落实好两国领导人的重要共识",
+    "ref": "Both sides should implement the important consensus reached by the leaders of the two countries",
+    "hyp": "The <unk>",
+    "hyp_id": "1f7e73b099bce1b8b31b5a125850563b74bd9ea4f94b3adfe6556f1cc09d12bc"
+  },
+  {
+    "src": "不断增加正向互动，创造务实合作的环境",
+    "ref": "and constantly increase the positive interaction and create an environment of pragmatic cooperation.",
+    "hyp": "The <unk> <unk>",
+    "hyp_id": "2527d98352a012aa6269f72bedd502d32c2561f535c63df2a9b1930bbbfa61ed"
+  },
+  {
+    "src": "中国共产党<unk>包括<unk>在内的日本各主要政党一道",
+    "ref": "The Chinese Communist Party is ready to work with all major Japanese political parties, including the <unk> Party",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "ac3ca76f5a3407b159d8ef188373439c47b8e9c0904ffb5ee8bc0f4bdb0738bf"
+  },
+  {
+    "src": "增进<unk>和信任，为改善发展中日关系、造福<unk>积极努力。",
+    "ref": "to enhance mutual understanding and trust and actively make efforts on improving the development of Sino-Japanese relations for the benefit of the people of both countries.",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "60f83d4054108abf48a291d772f1fe98e0cbc1f0e1d1812db5ecd9f89ec76adf"
+  },
+  {
+    "src": "会见美中关系全国委员会代表团时，<unk>表示，特朗普总统访华期间，两国元首达成一系列重要共识",
+    "ref": "When meeting with the delegation of the National Committee on <unk> <unk> Wang <unk> said that during President <unk> visit to China, the heads of state of the two countries reached a series of important <unk>",
+    "hyp": "The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>",
+    "hyp_id": "889a259707150518251a0ed877d3b95de55fe0b3c3839fba79f92ec09cd42cfa"
+  }
+]
